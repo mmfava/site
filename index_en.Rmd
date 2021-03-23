@@ -1,0 +1,110 @@
+---
+title: "Marília Melo Favalesso"
+image: "marilia.png"
+links:
+  - label: GitHub
+    url: "https://github.com/mmfava"
+  - label: Twitter
+    url: "https://twitter.com/mmfbee"
+  - label: Email
+    url: "mailto:mariliabioufpr@gmail.com"
+output:
+  postcards::trestles
+site: distill::distill_website
+---
+
+<!-- The postcard had a useless second scrollbar (in addition to the big one of distill). For some reason, I couldn't remove it with the CSS in custom.css. My only solution is to modify the source of the postcards::trestle template to remove this scrollbar. -->
+```{r, include = FALSE}
+trestles_orig <- readLines(
+  system.file("pandoc_templates/trestles.html",
+              package = "postcards")
+)
+
+trestles_mod <- trestles_orig
+
+trestles_mod[
+  which(
+    grepl(
+      'class="d-flex flex-column col px-5 align-items-center align-self-center mh-100" style="overflow-y: scroll;"',
+      trestles_mod
+    )
+  )
+] <- '<div class="d-flex flex-column col px-5 align-items-center align-self-center mh-100" style="overflow-y: none;">'
+
+cat(paste(trestles_mod, collapse = "\n"), file = system.file("pandoc_templates/trestles.html",
+              package = "postcards"))
+
+```
+
+<br>
+
+<center>
+<ul class="list-inline">
+  <li class="list-inline-item">
+    <a href="index.html">
+      <button type="button" class="btn btn-outline-dark mb-2">
+                        Português
+                      </button>
+                    </a>
+                  </li>
+                  
+  <li class="list-inline-item">
+    <a href="index_es.html">
+      <button type="button" class="btn btn-outline-dark mb-2">
+                        Español
+                      </button>
+                    </a>
+                  </li>
+
+  <li class="list-inline-item">
+    <a href="index_en.html">
+      <button type="button" class="btn btn-outline-dark mb-2">
+                        English
+                      </button>
+                    </a>
+                  </li>
+                  
+</ul>
+</center>
+
+Sou ecoepidemiologista e entusiasta da [ciência de dados/bioestatística](https://twitter.com/somaquadrados). Atualmente estou cursando um doutorado pela ['Universidad de Buenos Aires' (Programa de 'Ecología, Genética y Ecolución')](http://www.ege.fcen.uba.ar/home/), com lugar de trabalho no [Instituto Nacional de  Medicina Tropical da  Argentina](https://www.argentina.gob.ar/salud/inmet). Tenho experiência em ecologia, análise de dados biológicos, análise de dados espaciais, epidemiologia, entomologia e programação (R e Python). Sou co-fundadora e co-organizadora do [Grupo de Estudos em Ciência de Dados (GECD) de Foz do Iguaçu](https://github.com/gecdfoz/GECD) e falo sobre bioestatística no [Soma dos Quadrados](https://linktr.ee/somaquadrados).
+
+<br>
+
+Se você quiser me contactar, a melhor forma é por e-mail ou via twitter (:
+
+<br>
+
+:::: {style="display: grid; grid-template-columns: 40% 50%; grid-column-gap: 30px; line-height: 1.5rem;"}
+
+::: {}
+<span style = "font-size: 1.5rem; font-weight: 600;"> Interesses </span>
+
+* Análise de dados/bioestatística
+
+* Programação em R/Python
+
+* Ecoepidemiologia
+
+* Conservação
+:::
+
+::: {}
+<span style = "font-size: 1.4rem; font-weight: 600;"> Educação </span>
+
+<ul>
+ 
+<li style = "list-style: none; background-image: url(graduation-cap-solid.png); background-repeat: no-repeat;  background-size: 1.2rem; padding-left: 2rem;">   Estudante de doutorado em ['Ecología, Genética y Evolución'](http://www.ege.fcen.uba.ar/home/), 2018 - atual, Universidad de Buenos Aires </li>
+<br>
+<li style = "list-style: none; background-image: url(graduation-cap-solid.png); background-repeat: no-repeat;  background-size: 1.2rem; padding-left: 2rem;">   [Mestre em Conservação e Manejo de Recursos Naturais](https://www5.unioeste.br/portalunioeste/pos/pprn), 2016 - 2018, Universidade estadual do Oeste do Paraná </li>
+<br>
+<li style = "list-style: none; background-image: url(graduation-cap-solid.png); background-repeat: no-repeat;  background-size: 1.2rem; padding-left: 2rem;">    [Bacharela em Ciências Biológicas](http://www.palotina.ufpr.br/portal/ciencias-biologicas/), 2010 - 2014, Universidade Federal do Paraná
+</li>
+<br>
+<li style = "list-style: none; background-image: url(graduation-cap-solid.png); background-repeat: no-repeat;  background-size: 1.2rem; padding-left: 2rem;">   [Técnica em Meio-ambiente](https://www.ceepcascavel.com.br/), 2005 - 2009, CEEP Pedro Boaretto Neto
+</li>
+
+</ul>
+:::
+::::
+
