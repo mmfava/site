@@ -16,5 +16,17 @@
       <guid>https://github.com/mmfava/site/posts/2021-03-24-teste</guid>
       <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
     </item>
+    <item>
+      <title>Git e GitHub no RStudio</title>
+      <dc:creator>Marília Melo Favalesso</dc:creator>
+      <link>https://github.com/mmfava/site/posts/2021-03-24-git-e-github-com-o-rstudio</link>
+      <description>Curso que ministrei para o maravilhoso grupo do R-ladies Fortaleza</description>
+      <category>R-ladies</category>
+      <category>Git</category>
+      <category>Github</category>
+      <category>R</category>
+      <guid>https://github.com/mmfava/site/posts/2021-03-24-git-e-github-com-o-rstudio</guid>
+      <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
+    </item>
   </channel>
 </rss>

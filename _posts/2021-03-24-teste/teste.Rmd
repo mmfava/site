@@ -12,12 +12,12 @@ output:
 ---
 
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
+teste de inclusão de slides 
+
+
+
+```{r echo=FALSE}
+knitr::include_url('slides.html')
+
 ```
-
-Distill is a publication format for scientific and technical writing, native to the web.
-
-Learn more about using Distill at <https://rstudio.github.io/distill>.
-
 
