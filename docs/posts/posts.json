@@ -1,36 +1,19 @@
 [
   {
-    "path": "posts/2021-03-23-teste-2/",
-    "title": "teste 2",
+    "path": "posts/2021-03-24-teste/",
+    "title": "teste",
     "description": "A short description of the post.",
     "author": [
       {
-        "name": "Marília Melo Favalesso",
+        "name": "Unknown",
         "url": {}
       }
     ],
-    "date": "2021-03-23",
-    "categories": [],
-    "contents": "\r\njaosdioasjdas oiasjdoijasd\r\naoisdjioasjasd\r\n\r\n\r\n\r\n",
-    "preview": {},
-    "last_modified": "2021-03-23T22:34:21-03:00",
-    "input_file": {}
-  },
-  {
-    "path": "posts/2021-03-22-teste/",
-    "title": "Teste",
-    "description": "A short description of the post.",
-    "author": [
-      {
-        "name": "Etienne Bacher",
-        "url": {}
-      }
-    ],
-    "date": "2021-03-22",
+    "date": "2021-03-24",
     "categories": [],
     "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2021-03-22T22:03:12-03:00",
-    "input_file": {}
+    "last_modified": "2021-03-24T14:07:57-03:00",
+    "input_file": "teste.utf8.md"
   }
 ]

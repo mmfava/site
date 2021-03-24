@@ -12,11 +12,11 @@ navbar:
     - text: "Projetos"
       menu:
         - text: "GECD"
-          href: https://github.com/gecdfoz
+          href: https://github.com/gecdfoz/GECD
         - text: "Soma dos quadrados"
           href: https://linktr.ee/somaquadrados
         - text: "Grupo de Estudos 'Niche Models'"
-          href: https://github.com/nichemodels
+          href: https://linktr.ee/niche_group
     - text: "CV"
       href: cv.html
   source_url: https://github.com/mmfava/site
