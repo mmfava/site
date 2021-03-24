@@ -24,7 +24,6 @@ navbar:
     - text: "CV"
       href: cv.html
   source_url: https://github.com/mmfava/site
-  search: true
 base_url: www.mmfava.com
 repository_url: https://github.com/mmfava/site
 output:
