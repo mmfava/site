@@ -2,8 +2,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
     <title>Marilia Melo Favalesso</title>
-    <link>https://github.com/mmfava/site</link>
-    <atom:link href="https://github.com/mmfava/site/blog.xml" rel="self" type="application/rss+xml"/>
+    <link>www.mmfava.com</link>
+    <atom:link href="www.mmfava.com/blog.xml" rel="self" type="application/rss+xml"/>
     <description>Marilia Melo Favalesso
 </description>
     <generator>Distill</generator>
@@ -11,13 +11,13 @@
     <item>
       <title>Git e GitHub no RStudio</title>
       <dc:creator>Marília Melo Favalesso</dc:creator>
-      <link>https://github.com/mmfava/site/posts/2021-03-24-git-e-github-com-o-rstudio</link>
+      <link>www.mmfava.com/posts/2021-03-24-git-e-github-com-o-rstudio</link>
       <description>Curso que ministrei para o maravilhoso grupo do R-ladies Fortaleza</description>
       <category>R-ladies</category>
       <category>Git</category>
       <category>Github</category>
       <category>R</category>
-      <guid>https://github.com/mmfava/site/posts/2021-03-24-git-e-github-com-o-rstudio</guid>
+      <guid>www.mmfava.com/posts/2021-03-24-git-e-github-com-o-rstudio</guid>
       <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
     </item>
   </channel>
