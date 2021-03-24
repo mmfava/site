@@ -15,8 +15,7 @@ knitr::opts_chunk$set(echo = FALSE)
 Aside
 ================================================================================
 
-<i class='fas fa-file-pdf'></i> [Download this CV in PDF](https://www.mariliamelofavalesso.com/)  
-<i class='fas fa-download'></i> [Short version of this CV](https://www.mariliamelofavalesso.com/)
+<i class='fas fa-download'></i> [Download this CV in PDF](cv.pdf)
 
 Contact {#contact}
 --------------------------------------------------------------------------------
