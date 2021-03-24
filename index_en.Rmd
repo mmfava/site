@@ -2,11 +2,15 @@
 title: "Marília Melo Favalesso"
 image: "marilia.png"
 links:
-  - label: GitHub
+  - label: Github
     url: "https://github.com/mmfava"
+  - label: Researchgate
+    url: "https://www.researchgate.net/profile/Marilia-Favalesso"
+  - label: Linkedin
+    url: "https://www.linkedin.com/in/mariliafavalesso/"
   - label: Twitter
     url: "https://twitter.com/mmfbee"
-  - label: Email
+  - label: E-mail
     url: "mailto:mariliabioufpr@gmail.com"
 output:
   postcards::trestles
@@ -67,26 +71,26 @@ cat(paste(trestles_mod, collapse = "\n"), file = system.file("pandoc_templates/t
 </ul>
 </center>
 
-Sou ecoepidemiologista e entusiasta da [ciência de dados/bioestatística](https://twitter.com/somaquadrados). Atualmente estou cursando um doutorado pela ['Universidad de Buenos Aires' (Programa de 'Ecología, Genética y Ecolución')](http://www.ege.fcen.uba.ar/home/), com lugar de trabalho no [Instituto Nacional de  Medicina Tropical da  Argentina](https://www.argentina.gob.ar/salud/inmet). Tenho experiência em ecologia, análise de dados biológicos, análise de dados espaciais, epidemiologia, entomologia e programação (R e Python). Sou co-fundadora e co-organizadora do [Grupo de Estudos em Ciência de Dados (GECD) de Foz do Iguaçu](https://github.com/gecdfoz/GECD) e falo sobre bioestatística no [Soma dos Quadrados](https://linktr.ee/somaquadrados).
+I am an eco-epidemiologist and data science/biostatistics enthusiast. I am currently pursuing a doctorate at the *Universidad de Buenos Aires* ([Ecology, Genetics and Evolution program](http://www.ege.fcen.uba.ar/home/)), with a job at the [*National Institute of Tropical Medicine in Argentina*](https://www.argentina.gob.ar/salud/inmet). I have experience in ecology, biological data analysis, spatial data analysis, epidemiology, entomology, and programming (R and Python). I am co-founder and co-organizer of the [Data Science Study Group (GECD) in Foz do Iguaçu](https://github.com/gecdfoz/GECD). I explain biostatistics in ['Soma dos Quadrados'](https://linktr.ee/somaquadrados) and discuss species distribution modeling methods in the ['Niche Models Group'](https://t.me/nichemodel).
 
 <br>
 
-Se você quiser me contactar, a melhor forma é por e-mail ou via twitter (:
+If you want to contact me, the best way is by email or via Twitter (:
 
 <br>
 
 :::: {style="display: grid; grid-template-columns: 40% 50%; grid-column-gap: 30px; line-height: 1.5rem;"}
 
 ::: {}
-<span style = "font-size: 1.5rem; font-weight: 600;"> Interesses </span>
+<span style = "font-size: 1.5rem; font-weight: 600;"> Interests </span>
 
-* Análise de dados/bioestatística
+* Data analysis/biostatistics
 
-* Programação em R/Python
+* Programming in R/Python
 
-* Ecoepidemiologia
+* Ecoepidemiology
 
-* Conservação
+* Conservation
 :::
 
 ::: {}
@@ -94,14 +98,14 @@ Se você quiser me contactar, a melhor forma é por e-mail ou via twitter (:
 
 <ul>
  
-<li style = "list-style: none; background-image: url(graduation-cap-solid.png); background-repeat: no-repeat;  background-size: 1.2rem; padding-left: 2rem;">   Estudante de doutorado em ['Ecología, Genética y Evolución'](http://www.ege.fcen.uba.ar/home/), 2018 - atual, Universidad de Buenos Aires </li>
+<li style = "list-style: none; background-image: url(graduation-cap-solid.png); background-repeat: no-repeat;  background-size: 1.2rem; padding-left: 2rem;"> PhD student in [Ecology, Genetics and Evolution](http://www.ege.fcen.uba.ar/home/), 2018 - current, Universidad de Buenos Aires </li>
 <br>
-<li style = "list-style: none; background-image: url(graduation-cap-solid.png); background-repeat: no-repeat;  background-size: 1.2rem; padding-left: 2rem;">   [Mestre em Conservação e Manejo de Recursos Naturais](https://www5.unioeste.br/portalunioeste/pos/pprn), 2016 - 2018, Universidade estadual do Oeste do Paraná </li>
+<li style = "list-style: none; background-image: url(graduation-cap-solid.png); background-repeat: no-repeat;  background-size: 1.2rem; padding-left: 2rem;">   [Master's degree in environmental sciences](https://www5.unioeste.br/portalunioeste/pos/pprn), 2016 - 2018, Universidade estadual do Oeste do Paraná </li>
 <br>
-<li style = "list-style: none; background-image: url(graduation-cap-solid.png); background-repeat: no-repeat;  background-size: 1.2rem; padding-left: 2rem;">    [Bacharela em Ciências Biológicas](http://www.palotina.ufpr.br/portal/ciencias-biologicas/), 2010 - 2014, Universidade Federal do Paraná
+<li style = "list-style: none; background-image: url(graduation-cap-solid.png); background-repeat: no-repeat;  background-size: 1.2rem; padding-left: 2rem;">    [Bachelor of Biological Sciences](http://www.palotina.ufpr.br/portal/ciencias-biologicas/), 2010 - 2014, Universidade Federal do Paraná
 </li>
 <br>
-<li style = "list-style: none; background-image: url(graduation-cap-solid.png); background-repeat: no-repeat;  background-size: 1.2rem; padding-left: 2rem;">   [Técnica em Meio-ambiente](https://www.ceepcascavel.com.br/), 2005 - 2009, CEEP Pedro Boaretto Neto
+<li style = "list-style: none; background-image: url(graduation-cap-solid.png); background-repeat: no-repeat;  background-size: 1.2rem; padding-left: 2rem;">   [Environmental Technician](https://www.ceepcascavel.com.br/), 2005 - 2009, CEEP Pedro Boaretto Neto
 </li>
 
 </ul>
