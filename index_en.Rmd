@@ -94,7 +94,7 @@ If you want to contact me, the best way is by email or via Twitter (:
 :::
 
 ::: {}
-<span style = "font-size: 1.4rem; font-weight: 600;"> Educação </span>
+<span style = "font-size: 1.4rem; font-weight: 600;"> Education </span>
 
 <ul>
  
