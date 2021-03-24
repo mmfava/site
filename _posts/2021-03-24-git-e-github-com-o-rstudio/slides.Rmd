@@ -47,13 +47,13 @@ pre[class] {
 
 **Contatos**
 <br>
-[E-mail: mariliabioufpr@gmail.com]()
+* [E-mail: mariliabioufpr@gmail.com]()
 <br>
-[Twitter: @mmfbee](https://twitter.com/mmfbio)
+* [Twitter: @mmfbee](https://twitter.com/mmfbee)
 <br>
-[Github: /mmfava](https://github.com/mmfava)
+* [Github: /mmfava](https://github.com/mmfava)
 <br>
-[Site: mariliamelofavalesso.com](https://www.mariliamelofavalesso.com/)
+* [Site: www.mmfava.com](www.mmfava.com)
 
 ---
 class: clear
