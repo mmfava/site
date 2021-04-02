@@ -20,5 +20,18 @@
       <guid>www.mmfava.com/posts/2021-03-24-git-e-github-com-o-rstudio</guid>
       <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
     </item>
+    <item>
+      <title>Introdução a modelagem de distribuição de espécies com exemplo no R</title>
+      <dc:creator>Marília Melo Favalesso</dc:creator>
+      <link>www.mmfava.com/posts/2021-04-01-introduo-a-modelagem-de-distribuio-de-espcies-com-exemplo-no-r</link>
+      <description>Curso ministrado no evento "Dados da Ecologia e Meio Ambiente Aplicados ao R"</description>
+      <category>R-ladies</category>
+      <category>R</category>
+      <category>Modelagem de distribuição de espécies</category>
+      <category>Modelagem de nicho ecológico</category>
+      <category>ENMTML</category>
+      <guid>www.mmfava.com/posts/2021-04-01-introduo-a-modelagem-de-distribuio-de-espcies-com-exemplo-no-r</guid>
+      <pubDate>Sat, 31 Oct 2020 00:00:00 +0000</pubDate>
+    </item>
   </channel>
 </rss>
