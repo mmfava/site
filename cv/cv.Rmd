@@ -19,7 +19,7 @@ Aside
 
 Contact {#contact}
 --------------------------------------------------------------------------------
-- `r fontawesome::fa("link")` [mariliamelofavalesso.com](https://www.mariliamelofavalesso.com/)
+- `r fontawesome::fa("link")` [www.mmfava.com](www.mmfava.com)
 - `r fontawesome::fa("envelope")` biologist.mmf@gmail.com
 - `r fontawesome::fa("twitter")` [mmfbee](https://twitter.com/mmfbee)
 - `r fontawesome::fa("github")` [github/mmfava](https://github.com/mmfava)
@@ -50,7 +50,7 @@ Languages {#skills}
 Disclaimer {#disclaimer}
 ------------------------------------
 CV by [**pagedown**](https://github.com/rstudio/pagedown) R package.  
-Code available on `r fontawesome::fa("github")` [GitHub]().  
+Code available on `r fontawesome::fa("github")` [GitHub](https://github.com/mmfava/site).  
 Last updated on `r Sys.Date()`.
 
 Main
@@ -99,6 +99,18 @@ Palotina, PR, Brazil
 
 Complementary Education {data-icon=book}
 --------------------------------------------------------------------------------
+### Generalized linear mixed model
+
+Universidad de Buenos Aires, UBA (remote)
+
+Argentina
+
+2021
+
+::: concise
+- 40 h 
+:::
+
 
 ### Quantitative remote sensing applied to environmental problems
 

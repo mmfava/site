@@ -454,7 +454,7 @@ devtools::install_github("andrefaa/ENMTML")
 
 ## Carregar os pacotes
 install.packages(maptools) # pacote para abrir mapas diretamente no R
-install.packages(raster) # para baixar os limites territoriais diretamente no computador e trabalhar com rasters. 
+install.packages(raster) # para trabalhar com rasters
 install.packages(dismo) # função gbif - download de ocorrências de espécies. 
 install.packages(tidyverse) # trabalhar com as planilhas
 install.packages(ENMTML) # pacote para modelagem de nicho
@@ -465,14 +465,14 @@ install.packages(leaflet) # pacote para mapas interativos - usaremos nos resulta
 ## Modelagem de distribuição de espécies com o R
 
 ### Definir working directory
-```{r eval=FALSE, include=TRUE}
-setwd("C:/Users/MMF/Desktop/niche_models")
+```{r message=FALSE, warning=FALSE}
+setwd("C:/Users/mmfav/OneDrive/Área de Trabalho/niche_model")
 ```
 
 ### Dados de ocorrência do GBIF
 - Vamos baixar dados de ocorrência de *T. spinipes* do [database GBIF](https://www.gbif.org/). 
 
-```{r eval=FALSE, include=TRUE}
+```{r message=FALSE, warning=FALSE}
 # - Vamos usar a função "gbif()" para fazer o download dos dados.
 pontos = dismo::gbif('Trigona', # gênero da espécie
               species = "Trigona spinipes", # nome completo da espécie
@@ -497,7 +497,7 @@ names(pontos) = "data"
   
 <div style="width: 1050px; height: 320px; white-space: nowrap; overflow-x: scroll; overflow-y: scroll; 
 border: 0; padding: 0px; display: inline-block;">
-```{r eval=FALSE, include=TRUE}
+```{r message=FALSE, warning=FALSE}
 library(tidyverse)
 
 # Primeiro vamos gerar um objeto com o endereço do nosso diretório de trabalho:
@@ -527,7 +527,7 @@ utils::write.table(tabela, file.path(d_ex, 'occ/occ.txt'), sep = '\t', row.names
 
 ### Dados de ocorrência do GBIF
 
-```{r eval=FALSE, include=TRUE}
+```{r message=FALSE, warning=FALSE}
 knitr::kable(x = head(pontos), format = "html")
 ```
 
@@ -537,7 +537,7 @@ knitr::kable(x = head(pontos), format = "html")
 ### Área de projeção do modelo
 
 - Polígono do mapamundi
-```{r eval=FALSE, include=TRUE}
+```{r message=FALSE, warning=FALSE}
 library(maptools)
 data("wrld_simpl")
 wrld_simpl
@@ -546,13 +546,13 @@ wrld_simpl
 - Recortando o mapa para uma extensão mais próxima dos pontos de ocorrência (background).
 
 1 - Olhar a saída de 'pontos' e ver a dimensão geográfica dele
-```{r eval=FALSE, include=TRUE}
+```{r message=FALSE, warning=FALSE}
 pontos
 ```
 
 2 - Salvar a extensão em um objeto chamado "ext". 
-```{r eval=FALSE, include=TRUE}
-ext = c(-85, -34.81973, -40, 10)
+```{r}
+ext = c(-85, -34.81973, -40, 0)
 ```
 
 ---
@@ -561,7 +561,7 @@ ext = c(-85, -34.81973, -40, 10)
 ### Área de projeção do modelo
 
 3 - Recortar o mapa mundi para a extensão selecionada. 
-```{r eval=FALSE, include=TRUE}
+```{r message=FALSE, warning=FALSE}
 map = raster::crop(wrld_simpl, ext)
 ```
 
@@ -572,7 +572,7 @@ map = raster::crop(wrld_simpl, ext)
 ### Background
 <div style="width: 1000px; height: 400px; white-space: nowrap; overflow-x: scroll; overflow-y: scroll; 
 border: 0; padding: 0px; display: inline-block;">
-```{r Plot, eval=FALSE, include=TRUE}
+```{r Plot, eval=FALSE, message=FALSE, warning=FALSE, include=TRUE}
 plot(map, # nosso limite territorial - America do sul
      axes = T, # Pedir para incluir os eixos das coordenadas
      lwd = 1.8, # Grossura da linha do mapa
@@ -606,14 +606,14 @@ legend('bottomright', # do lado inferior-direito
 - Chamar os dados para o R com a função `getData()`. 
 - Vamos usar os dados da plataforma [wordclim](https://www.worldclim.org/).
 
-```{r, eval=FALSE, include=TRUE}
+```{r eval=FALSE, message=FALSE, warning=FALSE, include=TRUE}
 r = raster::getData("worldclim", 
             var = "bio", 
             res = 10)
 ```
 
 - Recortar os rasters pela extensão da América do sul
-```{r, eval=FALSE, include=TRUE}
+```{r eval=FALSE, message=FALSE, warning=FALSE, include=TRUE}
 rr = raster::crop(mask(r, map), map)
 ```
 
@@ -623,7 +623,7 @@ rr = raster::crop(mask(r, map), map)
 ### Dados biogeoclimáticos
 
 - Visualizar as variáveis biogeoclimáticas
-```{r, eval=FALSE, include=TRUE}
+```{r, message=FALSE, warning=FALSE}
 plot(rr)
 ```
 
@@ -633,7 +633,7 @@ plot(rr)
 ### Dados biogeoclimáticos
 
 - Salvando os dados bioclimáticos em um diretório próprio
-```{r, eval=FALSE, include=TRUE}
+```{r message=FALSE, warning=FALSE, include=TRUE}
 # Criar um diretório chamado 'env':
 dir.create(paste0(d_ex, '/env')) 
 
@@ -649,12 +649,12 @@ for(i in names(rr)){ # para cada raster em 'rr'...
 ### Modelando a distribuição com o pacote ENMTML
 
 - Criar uma pasta/diretório para salvar os resultados do(s) modelo(s)
-```{r, eval=FALSE, include=TRUE}
+```{r message=FALSE, warning=FALSE, include=TRUE}
 dir.create(paste0(d_ex, '/resultados')) 
 ```
 
 - Vamos criar objetos com os endereços dos diretórios. Vamos usar os objetos na função `ENMTML()`.
-```{r, eval=FALSE, include=TRUE}
+```{r message=FALSE, warning=FALSE, include=TRUE}
 # endereço das variáveis climáticas
 d_env = file.path("C:/Users/MMF/Desktop/niche_models/env") 
 
@@ -672,7 +672,7 @@ res = "C:/Users/MMF/Desktop/niche_models/resultados"
 
 <div style="width: 1100px; height: 400px; white-space: nowrap; overflow-x: scroll; overflow-y: scroll; 
 border: 0; padding: 0px; display: inline-block;">
-```{r, eval=FALSE, include=TRUE}
+```{r message=FALSE, warning=FALSE}
 ENMTML::ENMTML(
   pred_dir = d_env, # Endereço para o diretório das variáveis
   proj_dir = NULL, # Quando trabalhamos com projeções - diferentes locais no espaço ou tempo
@@ -711,7 +711,7 @@ ENMTML::ENMTML(
 
 <div style="width: 1100px; height: 400px; white-space: nowrap; overflow-x: scroll; overflow-y: scroll; 
 border: 0; padding: 0px; display: inline-block;">
-```{r, eval=FALSE, include=TRUE}
+```{r message=FALSE, warning=FALSE}
 # Abrir o resultado em objeto chamado 'res'
 res = paste0(d_ex, '/resultados/Ensemble/PCA/Trigona_spinipes.tif') %>% raster()
 
@@ -740,7 +740,7 @@ map = leaflet(pontos) %>% # Usaremos a função 'leaflet' para produzir os mapas
 ### Visualização dos resultados
 
 - Vamos plotar os resultados usando o pacote "leaflet".
-```{r, eval=FALSE, include=TRUE}
+```{r message=FALSE, warning=FALSE, include=TRUE}
 map
 ```
 
