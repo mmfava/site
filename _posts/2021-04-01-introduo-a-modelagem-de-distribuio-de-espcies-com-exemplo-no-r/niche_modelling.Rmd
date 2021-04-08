@@ -464,15 +464,10 @@ install.packages(leaflet) # pacote para mapas interativos - usaremos nos resulta
 ---
 ## Modelagem de distribuição de espécies com o R
 
-### Definir working directory
-```{r message=FALSE, warning=FALSE}
-setwd("C:/Users/mmfav/OneDrive/Área de Trabalho/niche_model")
-```
-
 ### Dados de ocorrência do GBIF
 - Vamos baixar dados de ocorrência de *T. spinipes* do [database GBIF](https://www.gbif.org/). 
 
-```{r message=FALSE, warning=FALSE}
+```{r message=FALSE, warning=FALSE, include=TRUE}
 # - Vamos usar a função "gbif()" para fazer o download dos dados.
 pontos = dismo::gbif('Trigona', # gênero da espécie
               species = "Trigona spinipes", # nome completo da espécie
@@ -497,11 +492,11 @@ names(pontos) = "data"
   
 <div style="width: 1050px; height: 320px; white-space: nowrap; overflow-x: scroll; overflow-y: scroll; 
 border: 0; padding: 0px; display: inline-block;">
-```{r message=FALSE, warning=FALSE}
+```{r message=FALSE, warning=FALSE, include=TRUE}
 library(tidyverse)
 
 # Primeiro vamos gerar um objeto com o endereço do nosso diretório de trabalho:
-d_ex = file.path(getwd())
+d_ex = file.path('C:/Users/mmfav/Dropbox/nichemod')
 d_ex
 
 # Extrair as informações dos pontos para uma tabela:
@@ -527,7 +522,7 @@ utils::write.table(tabela, file.path(d_ex, 'occ/occ.txt'), sep = '\t', row.names
 
 ### Dados de ocorrência do GBIF
 
-```{r message=FALSE, warning=FALSE}
+```{r}
 knitr::kable(x = head(pontos), format = "html")
 ```
 
@@ -537,22 +532,21 @@ knitr::kable(x = head(pontos), format = "html")
 ### Área de projeção do modelo
 
 - Polígono do mapamundi
-```{r message=FALSE, warning=FALSE}
+```{r message=FALSE, warning=FALSE, include=TRUE}
 library(maptools)
 data("wrld_simpl")
-wrld_simpl
 ```
 
 - Recortando o mapa para uma extensão mais próxima dos pontos de ocorrência (background).
 
 1 - Olhar a saída de 'pontos' e ver a dimensão geográfica dele
-```{r message=FALSE, warning=FALSE}
+```{r}
 pontos
 ```
 
 2 - Salvar a extensão em um objeto chamado "ext". 
 ```{r}
-ext = c(-85, -34.81973, -40, 0)
+ext = c(-85, -34.81973, -40, 0) # colocar um pouquinho mais amplo que os pontos
 ```
 
 ---
@@ -561,7 +555,7 @@ ext = c(-85, -34.81973, -40, 0)
 ### Área de projeção do modelo
 
 3 - Recortar o mapa mundi para a extensão selecionada. 
-```{r message=FALSE, warning=FALSE}
+```{r message=FALSE, warning=FALSE, include=TRUE}
 map = raster::crop(wrld_simpl, ext)
 ```
 
@@ -572,7 +566,7 @@ map = raster::crop(wrld_simpl, ext)
 ### Background
 <div style="width: 1000px; height: 400px; white-space: nowrap; overflow-x: scroll; overflow-y: scroll; 
 border: 0; padding: 0px; display: inline-block;">
-```{r Plot, eval=FALSE, message=FALSE, warning=FALSE, include=TRUE}
+```{r}
 plot(map, # nosso limite territorial - America do sul
      axes = T, # Pedir para incluir os eixos das coordenadas
      lwd = 1.8, # Grossura da linha do mapa
@@ -606,15 +600,19 @@ legend('bottomright', # do lado inferior-direito
 - Chamar os dados para o R com a função `getData()`. 
 - Vamos usar os dados da plataforma [wordclim](https://www.worldclim.org/).
 
-```{r eval=FALSE, message=FALSE, warning=FALSE, include=TRUE}
-r = raster::getData("worldclim", 
-            var = "bio", 
-            res = 10)
+```{r}
+# diretório de trabalho
+setwd('C:/Users/mmfav/Dropbox/nichemod')
+
+# download data
+r = raster::getData("worldclim", # banco de dados
+            var = "bio", # var. biogeoclimáticas
+            res = 10) # resolução = 10m
 ```
 
 - Recortar os rasters pela extensão da América do sul
-```{r eval=FALSE, message=FALSE, warning=FALSE, include=TRUE}
-rr = raster::crop(mask(r, map), map)
+```{r}
+rr = raster::crop(raster::mask(r, map), map)
 ```
 
 ---
@@ -623,7 +621,7 @@ rr = raster::crop(mask(r, map), map)
 ### Dados biogeoclimáticos
 
 - Visualizar as variáveis biogeoclimáticas
-```{r, message=FALSE, warning=FALSE}
+```{r fig.width=7}
 plot(rr)
 ```
 
@@ -649,20 +647,18 @@ for(i in names(rr)){ # para cada raster em 'rr'...
 ### Modelando a distribuição com o pacote ENMTML
 
 - Criar uma pasta/diretório para salvar os resultados do(s) modelo(s)
-```{r message=FALSE, warning=FALSE, include=TRUE}
+```{r eval=FALSE, message=FALSE, warning=FALSE, include=TRUE}
 dir.create(paste0(d_ex, '/resultados')) 
 ```
 
 - Vamos criar objetos com os endereços dos diretórios. Vamos usar os objetos na função `ENMTML()`.
-```{r message=FALSE, warning=FALSE, include=TRUE}
+```{r}
 # endereço das variáveis climáticas
-d_env = file.path("C:/Users/MMF/Desktop/niche_models/env") 
+d_env = file.path("C:/Users/mmfav/Dropbox/nichemod/env") 
 
 # endereço dos pontos de ocorrência
-d_occ = "C:/Users/MMF/Desktop/niche_modelse/occ/occ.txt" 
+d_occ = "C:/Users/mmfav/Dropbox/nichemod/occ/occ.txt" 
 
-# local em que iremos salvar os resultados
-res = "C:/Users/MMF/Desktop/niche_models/resultados"  
 ```
 
 ---
@@ -672,11 +668,11 @@ res = "C:/Users/MMF/Desktop/niche_models/resultados"
 
 <div style="width: 1100px; height: 400px; white-space: nowrap; overflow-x: scroll; overflow-y: scroll; 
 border: 0; padding: 0px; display: inline-block;">
-```{r message=FALSE, warning=FALSE}
+```{r}
 ENMTML::ENMTML(
   pred_dir = d_env, # Endereço para o diretório das variáveis
   proj_dir = NULL, # Quando trabalhamos com projeções - diferentes locais no espaço ou tempo
-  result_dir = res, # Pasta para salvar as saídas/resultados 
+  # result_dir = res, # Pasta para salvar as saídas/resultados 
   occ_file = d_occ, # Pasta onde estão nossos pontos de ocorrência
   sp = 'species', # coluna que contêm o nome das espécies 
   x = 'x', # coluna que corresponde a longitude
@@ -685,14 +681,14 @@ ENMTML::ENMTML(
   thin_occ = NULL, # Inserimos os métodos de filtragem de ocorrências dados redundantes 
   eval_occ = NULL, # Tabela com dados de ocorrência para validação dos dados 
   colin_var = c(method='PEARSON', threshold='0.7'), # Onde inserimos os métodos para evitar a colinearidade entre os dados 
-  imp_var = TRUE, # Calcula a importância das variáveis em curvas de resposta 
+  imp_var = FALSE, # Calcula a importância das variáveis em curvas de resposta 
   sp_accessible_area = NULL, # Método de restrição de área acessível para as espécies 
   pseudoabs_method = c(method = 'RND'), # Método de seleção de pseudo-ausências aleatório
   pres_abs_ratio = 1, # Razão presença-ausência (valores entre 0 e 1)
   part=c(method= 'KFOLD', folds='10'), # Método de partição para validação do modelo.
-  save_part = TRUE, # Save partitioned data?
+  save_part = FALSE, # Save partitioned data?
   save_final = TRUE, # Salvar o modelo final em .tif (?)
-  algorithm = c('BIO', 'MAH', 'MXD'), # algoritmos de modelagem
+  algorithm = c('BIO', 'MAH'), # algoritmos de modelagem
   thr = c(type='MAX_TSS'), # Para binarizar o mapa, qual método utilizar?
   msdm = NULL, # Métodos de restrição no modelo para próximo das ocorrências conhecidas 
   ensemble = c(method='PCA'), # Qual método ensemble, ou de combinação, realizar entre os diferentes algoritmos? 
@@ -711,9 +707,12 @@ ENMTML::ENMTML(
 
 <div style="width: 1100px; height: 400px; white-space: nowrap; overflow-x: scroll; overflow-y: scroll; 
 border: 0; padding: 0px; display: inline-block;">
-```{r message=FALSE, warning=FALSE}
+```{r message=FALSE, warning=FALSE, include=TRUE}
+library(tidyverse)
+library(leaflet)
+library(raster)
 # Abrir o resultado em objeto chamado 'res'
-res = paste0(d_ex, '/resultados/Ensemble/PCA/Trigona_spinipes.tif') %>% raster()
+res = paste0(d_ex, '/Result/Ensemble/PCA/Trigona_spinipes.tif') %>% raster()
 
 # Fazer uma palheta de cores variando de verde até vermelho; para a legenda de 'suitability'. 
 pal = colorNumeric(c("#003300", "#006633", "#009300", "#FFFFCC",
@@ -740,7 +739,7 @@ map = leaflet(pontos) %>% # Usaremos a função 'leaflet' para produzir os mapas
 ### Visualização dos resultados
 
 - Vamos plotar os resultados usando o pacote "leaflet".
-```{r message=FALSE, warning=FALSE, include=TRUE}
+```{r}
 map
 ```
 
