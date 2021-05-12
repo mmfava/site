@@ -16,7 +16,7 @@ output:
       ratio: 16:9
       countIncrementalSlides: true
 ---
-background-image: url(https://www.mmfava.com/marilia.png)
+background-image: url(https://www.mmfava.com/marilia.PNG)
 background-size: 300px
 background-position: 90% 5%
 
@@ -111,7 +111,7 @@ Assim, os 'epidemiologistas' estudam onde ocorrem doenças, problemas de saúde 
 # Epidemiología
 
 .center[
-<img src="fig/susserandsusser.png" style="width:65%;">
+<img src="fig/susserandsusser.PNG" style="width:65%;">
 ]
 
 - A lo largo de su historia, la epidemiología ha experimentado numerosos desarrollos metodológicos y conceptuales, así como cambios en la escala en la que los epidemiólogos enfocan su investigación. En consecuencia, se caracterizó por su época, tiendo 3 eras principales (Susser & Susser [1996a](https://ajph.aphapublications.org/doi/pdf/10.2105/AJPH.86.5.668), [1996b](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1380475/pdf/amjph00516-0068.pdf)):
@@ -145,7 +145,7 @@ name: ecoepidemio
 ## La necesidad de un nuevo paradigma
 
 .center[
-<img src="fig/Slide53.png" style="width:68%;">
+<img src="fig/Slide53.PNG" style="width:68%;">
 
 ([Susser & Susser 1996](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1380475/pdf/amjph00516-0068.pdf))
 ]
@@ -165,13 +165,13 @@ Os autores falam que, como investigadores, nós estamos condicionados pelas noss
 - Universalismo: Leyes que se aplican al 'todo'.
 
 .center[
-<img src="fig/Slide55.png" style="width:23%;">
+<img src="fig/Slide55.PNG" style="width:23%;">
 ]
 
 - Ecologismo: Leyes que se aplican a partes del 'todo'.
 
 .center[
-<img src="fig/Slide56.png" style="width:23%;">
+<img src="fig/Slide56.PNG" style="width:23%;">
 
 ([Susser & Susser 1996](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1380475/pdf/amjph00516-0068.pdf))
 ]
@@ -218,7 +218,7 @@ O novo paradigma proposto por Susser e Susser foi nomedo de "paradigma das caixa
 <br>
 
 .center[
-<img src="fig/Slide58.png" style="width:70%;">
+<img src="fig/Slide58.PNG" style="width:70%;">
 ]
 
 .center[([Susser & Susser 1996](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1380475/pdf/amjph00516-0068.pdf))]
@@ -236,7 +236,7 @@ A ideia é unificar a epidemiologia molecular, clínica e social em uma aplicaç
 
 
 .center[
-<img src="fig/Slide52.png" style="width:80%;">
+<img src="fig/Slide52.PNG" style="width:80%;">
 
 ([Susser & Susser 1996](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1380475/pdf/amjph00516-0068.pdf))
 ]
@@ -295,7 +295,7 @@ Ecoepidemiologia é multidisciplinar!
 - Actualmente, el término "**ecoepidemiología**" se ha utilizado para *describir la investigación epidemiológica que cubre las relaciones entre la integridad del ecosistema y la salud humana*. 
 
 .center[
-<img src="fig/Slide49.png" style="width:55%;">
+<img src="fig/Slide49.PNG" style="width:55%;">
 ]
 
 .center[([Soskolne et al. 2007](https://www.colinsoskolne.com/documents/change.pdf))]
@@ -419,7 +419,7 @@ t1 %>% mutate(Animales = cell_spec(Animales, escape = FALSE)) %>% kable(escape =
 
 
 ---
-background-image: url(fig/brasil.png)
+background-image: url(fig/brasil.PNG)
 background-size: 100px
 background-position: 90% 1%
 
@@ -510,7 +510,7 @@ Para entender melhor essa relação, vamos falar sobre alguns conceitos ecológi
 ## Nicho ecológico e o diagrama BAM
 
 .center[
-<img src="fig/Slide1.png" style="width:70%;">
+<img src="fig/Slide1.PNG" style="width:70%;">
 ]
 
 .center[[(Guisan et al. 2017)](https://www.amazon.com.br/Habitat-Suitability-Distribution-Models-Applications/dp/052175836X)]
@@ -525,7 +525,7 @@ Para entender melhor essa relação, vamos falar sobre alguns conceitos ecológi
 ## Nicho ecológico e o diagrama BAM
 
 .center[
-<img src="fig/Slide2.png" style="width:70%;">
+<img src="fig/Slide2.PNG" style="width:70%;">
 ]
 .center[[(Guisan et al. 2017)](https://www.amazon.com.br/Habitat-Suitability-Distribution-Models-Applications/dp/052175836X)]
 
@@ -535,7 +535,7 @@ Para entender melhor essa relação, vamos falar sobre alguns conceitos ecológi
 ## Nicho ecológico
 
 .center[
-<img src="fig/Slide3.png" style="width:70%;">
+<img src="fig/Slide3.PNG" style="width:70%;">
 ]
 
 ---
@@ -544,7 +544,7 @@ Para entender melhor essa relação, vamos falar sobre alguns conceitos ecológi
 ## Nicho ecológico
 
 .center[
-<img src="fig/Slide4.png" style="width:70%;">
+<img src="fig/Slide4.PNG" style="width:70%;">
 ]
 
 ---
@@ -553,7 +553,7 @@ Para entender melhor essa relação, vamos falar sobre alguns conceitos ecológi
 ## Nicho ecológico
 
 .center[
-<img src="fig/Slide5.png" style="width:70%;">
+<img src="fig/Slide5.PNG" style="width:70%;">
 ]
 
 ---
@@ -562,7 +562,7 @@ Para entender melhor essa relação, vamos falar sobre alguns conceitos ecológi
 ## Nicho ecológico
 
 .center[
-<img src="fig/Slide6.png" style="width:70%;">
+<img src="fig/Slide6.PNG" style="width:70%;">
 ]
 
 ---
@@ -571,7 +571,7 @@ Para entender melhor essa relação, vamos falar sobre alguns conceitos ecológi
 ## Nicho ecológico
 
 .center[
-<img src="fig/Slide7.png" style="width:70%;">
+<img src="fig/Slide7.PNG" style="width:70%;">
 ]
 
 ---
@@ -580,7 +580,7 @@ Para entender melhor essa relação, vamos falar sobre alguns conceitos ecológi
 ## Nicho ecológico
 
 .center[
-<img src="fig/Slide8.png" style="width:70%;">
+<img src="fig/Slide8.PNG" style="width:70%;">
 ]
 
 ---
@@ -589,7 +589,7 @@ Para entender melhor essa relação, vamos falar sobre alguns conceitos ecológi
 ## Nicho ecológico
 
 .center[
-<img src="fig/Slide9.png" style="width:70%;">
+<img src="fig/Slide9.PNG" style="width:70%;">
 ]
 
 ---
@@ -598,7 +598,7 @@ Para entender melhor essa relação, vamos falar sobre alguns conceitos ecológi
 ## Nicho ecológico
 
 .center[
-<img src="fig/Slide10.png" style="width:70%;">
+<img src="fig/Slide10.PNG" style="width:70%;">
 ]
 
 .center[[(Towsend et al. 2010)](https://www.amazon.com.br/Fundamentos-em-Ecologia-Colin-Townsend/dp/8536320648)]
@@ -609,7 +609,7 @@ Para entender melhor essa relação, vamos falar sobre alguns conceitos ecológi
 ## Nicho ecológico
 
 .center[
-<img src="fig/Slide11.png" style="width:70%;">
+<img src="fig/Slide11.PNG" style="width:70%;">
 ]
 
 ---
@@ -618,7 +618,7 @@ Para entender melhor essa relação, vamos falar sobre alguns conceitos ecológi
 ## Nicho ecológico
 
 .center[
-<img src="fig/Slide12.png" style="width:70%;">
+<img src="fig/Slide12.PNG" style="width:70%;">
 ]
 
 ---
@@ -627,7 +627,7 @@ Para entender melhor essa relação, vamos falar sobre alguns conceitos ecológi
 ## Nicho ecológico
 
 .center[
-<img src="fig/Slide13.png" style="width:70%;">
+<img src="fig/Slide13.PNG" style="width:70%;">
 ]
 
 .center[[(Towsend et al. 2010)](https://www.amazon.com.br/Fundamentos-em-Ecologia-Colin-Townsend/dp/8536320648)]
@@ -638,7 +638,7 @@ Para entender melhor essa relação, vamos falar sobre alguns conceitos ecológi
 ## Nicho ecológico
 
 .center[
-<img src="fig/Slide14.png" style="width:70%;">
+<img src="fig/Slide14.PNG" style="width:70%;">
 ]
 
 ---
@@ -647,7 +647,7 @@ Para entender melhor essa relação, vamos falar sobre alguns conceitos ecológi
 ## Nicho ecológico
 
 .center[
-<img src="fig/Slide15.png" style="width:70%;">
+<img src="fig/Slide15.PNG" style="width:70%;">
 ]
 
 .center[[(Towsend et al. 2010)](https://www.amazon.com.br/Fundamentos-em-Ecologia-Colin-Townsend/dp/8536320648)]
@@ -658,7 +658,7 @@ Para entender melhor essa relação, vamos falar sobre alguns conceitos ecológi
 ## Nicho ecológico
 
 .center[
-<img src="fig/Slide16.png" style="width:70%;">
+<img src="fig/Slide16.PNG" style="width:70%;">
 ]
 
 .center[[(Towsend et al. 2010)](https://www.amazon.com.br/Fundamentos-em-Ecologia-Colin-Townsend/dp/8536320648)]
@@ -669,7 +669,7 @@ Para entender melhor essa relação, vamos falar sobre alguns conceitos ecológi
 ## Nicho ecológico
 
 .center[
-<img src="fig/Slide17.png" style="width:70%;">
+<img src="fig/Slide17.PNG" style="width:70%;">
 ]
 
 .center[[(Towsend et al. 2010)](https://www.amazon.com.br/Fundamentos-em-Ecologia-Colin-Townsend/dp/8536320648)]
@@ -680,7 +680,7 @@ Para entender melhor essa relação, vamos falar sobre alguns conceitos ecológi
 ## Nicho ecológico
 
 .center[
-<img src="fig/Slide18.png" style="width:70%;">
+<img src="fig/Slide18.PNG" style="width:70%;">
 ]
 
 .center[[(Towsend et al. 2010)](https://www.amazon.com.br/Fundamentos-em-Ecologia-Colin-Townsend/dp/8536320648)]
@@ -691,7 +691,7 @@ Para entender melhor essa relação, vamos falar sobre alguns conceitos ecológi
 ## Nicho ecológico
 
 .center[
-<img src="fig/Slide19.png" style="width:70%;">
+<img src="fig/Slide19.PNG" style="width:70%;">
 ]
 
 .center[[(Towsend et al. 2010)](https://www.amazon.com.br/Fundamentos-em-Ecologia-Colin-Townsend/dp/8536320648)]
@@ -702,7 +702,7 @@ Para entender melhor essa relação, vamos falar sobre alguns conceitos ecológi
 ## Nicho ecológico
 
 .center[
-<img src="fig/Slide20.png" style="width:70%;">
+<img src="fig/Slide20.PNG" style="width:70%;">
 ]
 
 .center[[(Towsend et al. 2010)](https://www.amazon.com.br/Fundamentos-em-Ecologia-Colin-Townsend/dp/8536320648)]
@@ -713,7 +713,7 @@ Para entender melhor essa relação, vamos falar sobre alguns conceitos ecológi
 ## Nicho ecológico
 
 .center[
-<img src="fig/Slide21.png" style="width:70%;">
+<img src="fig/Slide21.PNG" style="width:70%;">
 ]
 
 .center[[(Towsend et al. 2010)](https://www.amazon.com.br/Fundamentos-em-Ecologia-Colin-Townsend/dp/8536320648)]
@@ -725,7 +725,7 @@ Para entender melhor essa relação, vamos falar sobre alguns conceitos ecológi
 ## Diagrama BAM
 
 .center[
-<img src="fig/Slide22.png" style="width:70%;">
+<img src="fig/Slide22.PNG" style="width:70%;">
 ]
 
 .center[[(Guisan et al. 2017)](https://www.amazon.com.br/Habitat-Suitability-Distribution-Models-Applications/dp/052175836X)]
@@ -737,7 +737,7 @@ Para entender melhor essa relação, vamos falar sobre alguns conceitos ecológi
 ## Diagrama BAM
 
 .center[
-<img src="fig/Slide23.png" style="width:70%;">
+<img src="fig/Slide23.PNG" style="width:70%;">
 ]
 
 .center[[(Guisan et al. 2017)](https://www.amazon.com.br/Habitat-Suitability-Distribution-Models-Applications/dp/052175836X)]
@@ -748,7 +748,7 @@ Para entender melhor essa relação, vamos falar sobre alguns conceitos ecológi
 ## Diagrama BAM
 
 .center[
-<img src="fig/Slide24.png" style="width:70%;">
+<img src="fig/Slide24.PNG" style="width:70%;">
 ]
 
 .center[[(Guisan et al. 2017)](https://www.amazon.com.br/Habitat-Suitability-Distribution-Models-Applications/dp/052175836X)]
@@ -759,7 +759,7 @@ Para entender melhor essa relação, vamos falar sobre alguns conceitos ecológi
 ## Diagrama BAM
 
 .center[
-<img src="fig/Slide25.png" style="width:70%;">
+<img src="fig/Slide25.PNG" style="width:70%;">
 ]
 
 .center[[(Guisan et al. 2017)](https://www.amazon.com.br/Habitat-Suitability-Distribution-Models-Applications/dp/052175836X)]
@@ -770,7 +770,7 @@ Para entender melhor essa relação, vamos falar sobre alguns conceitos ecológi
 ## Diagrama BAM
 
 .center[
-<img src="fig/Slide26.png" style="width:70%;">
+<img src="fig/Slide26.PNG" style="width:70%;">
 ]
 
 .center[[(Guisan et al. 2017)](https://www.amazon.com.br/Habitat-Suitability-Distribution-Models-Applications/dp/052175836X)]
@@ -781,7 +781,7 @@ Para entender melhor essa relação, vamos falar sobre alguns conceitos ecológi
 ## Diagrama BAM
 
 .center[
-<img src="fig/Slide27.png" style="width:70%;">
+<img src="fig/Slide27.PNG" style="width:70%;">
 ]
 
 .center[[(Guisan et al. 2017)](https://www.amazon.com.br/Habitat-Suitability-Distribution-Models-Applications/dp/052175836X)]
@@ -792,7 +792,7 @@ Para entender melhor essa relação, vamos falar sobre alguns conceitos ecológi
 ## Diagrama BAM
 
 .center[
-<img src="fig/Slide28.png" style="width:70%;">
+<img src="fig/Slide28.PNG" style="width:70%;">
 ]
 
 .center[[(Guisan et al. 2017)](https://www.amazon.com.br/Habitat-Suitability-Distribution-Models-Applications/dp/052175836X)]
@@ -803,7 +803,7 @@ Para entender melhor essa relação, vamos falar sobre alguns conceitos ecológi
 ## Diagrama BAM
 
 .center[
-<img src="fig/Slide29.png" style="width:70%;">
+<img src="fig/Slide29.PNG" style="width:70%;">
 ]
 
 .center[[(Guisan et al. 2017)](https://www.amazon.com.br/Habitat-Suitability-Distribution-Models-Applications/dp/052175836X)]
@@ -814,7 +814,7 @@ Para entender melhor essa relação, vamos falar sobre alguns conceitos ecológi
 ## Diagrama BAM
 
 .center[
-<img src="fig/Slide30.png" style="width:70%;">
+<img src="fig/Slide30.PNG" style="width:70%;">
 ]
 
 .center[[(Guisan et al. 2017)](https://www.amazon.com.br/Habitat-Suitability-Distribution-Models-Applications/dp/052175836X)]
@@ -825,7 +825,7 @@ Para entender melhor essa relação, vamos falar sobre alguns conceitos ecológi
 ## Diagrama BAM
 
 .center[
-<img src="fig/Slide31.png" style="width:70%;">
+<img src="fig/Slide31.PNG" style="width:70%;">
 ]
 
 .center[[(Guisan et al. 2017)](https://www.amazon.com.br/Habitat-Suitability-Distribution-Models-Applications/dp/052175836X)]
@@ -836,7 +836,7 @@ Para entender melhor essa relação, vamos falar sobre alguns conceitos ecológi
 ## Diagrama BAM
 
 .center[
-<img src="fig/Slide32.png" style="width:70%;">
+<img src="fig/Slide32.PNG" style="width:70%;">
 ]
 
 .center[[(Guisan et al. 2017)](https://www.amazon.com.br/Habitat-Suitability-Distribution-Models-Applications/dp/052175836X)]
@@ -847,7 +847,7 @@ Para entender melhor essa relação, vamos falar sobre alguns conceitos ecológi
 ## Diagrama BAM
 
 .center[
-<img src="fig/Slide33.png" style="width:70%;">
+<img src="fig/Slide33.PNG" style="width:70%;">
 ]
 
 .center[[(Guisan et al. 2017)](https://www.amazon.com.br/Habitat-Suitability-Distribution-Models-Applications/dp/052175836X)]
@@ -860,7 +860,7 @@ Para entender melhor essa relação, vamos falar sobre alguns conceitos ecológi
 --
 
 .center[
-<img src="fig/Slide34.png" style="width:70%;">
+<img src="fig/Slide34.PNG" style="width:70%;">
 ]
 
 <!---
@@ -873,7 +873,7 @@ A "ecologia" como disciplina têm sido ampliada para englobar não somente a par
 ## Impacto del uso y ocupación de la tierra
 
 .center[
-<img src="fig/Slide35.png" style="width:70%;">
+<img src="fig/Slide35.PNG" style="width:70%;">
 ]
 
 ---
@@ -882,7 +882,7 @@ A "ecologia" como disciplina têm sido ampliada para englobar não somente a par
 ## Impacto del uso y ocupación de la tierra
 
 .center[
-<img src="fig/Slide36.png" style="width:70%;">
+<img src="fig/Slide36.PNG" style="width:70%;">
 ]
 
 ---
@@ -891,7 +891,7 @@ A "ecologia" como disciplina têm sido ampliada para englobar não somente a par
 ## Impacto del uso y ocupación de la tierra
 
 .center[
-<img src="fig/Slide37.png" style="width:70%;">
+<img src="fig/Slide37.PNG" style="width:70%;">
 ]
 
 ---
@@ -900,7 +900,7 @@ A "ecologia" como disciplina têm sido ampliada para englobar não somente a par
 ## Impacto del uso y ocupación de la tierra
 
 .center[
-<img src="fig/Slide38.png" style="width:70%;">
+<img src="fig/Slide38.PNG" style="width:70%;">
 ]
 
 ---
@@ -909,7 +909,7 @@ A "ecologia" como disciplina têm sido ampliada para englobar não somente a par
 ## Impacto del uso y ocupación de la tierra
 
 .center[
-<img src="fig/Slide39.png" style="width:70%;">
+<img src="fig/Slide39.PNG" style="width:70%;">
 ]
 
 ---
@@ -918,7 +918,7 @@ A "ecologia" como disciplina têm sido ampliada para englobar não somente a par
 ## Impacto del uso y ocupación de la tierra
 
 .center[
-<img src="fig/Slide40.png" style="width:70%;">
+<img src="fig/Slide40.PNG" style="width:70%;">
 ]
 
 ---
@@ -927,7 +927,7 @@ A "ecologia" como disciplina têm sido ampliada para englobar não somente a par
 ## Impacto del uso y ocupación de la tierra
 
 .center[
-<img src="fig/Slide41.png" style="width:70%;">
+<img src="fig/Slide41.PNG" style="width:70%;">
 ]
 ---
 # Animales venenosos y medio ambiente
@@ -935,7 +935,7 @@ A "ecologia" como disciplina têm sido ampliada para englobar não somente a par
 ## Impacto del uso y ocupación de la tierra
 
 .center[
-<img src="fig/Slide42.png" style="width:70%;">
+<img src="fig/Slide42.PNG" style="width:70%;">
 ]
 ---
 # Animales venenosos y medio ambiente
@@ -943,7 +943,7 @@ A "ecologia" como disciplina têm sido ampliada para englobar não somente a par
 ## Impacto del uso y ocupación de la tierra
 
 .center[
-<img src="fig/Slide43.png" style="width:70%;">
+<img src="fig/Slide43.PNG" style="width:70%;">
 ]
 ---
 # Animales venenosos y medio ambiente
@@ -951,7 +951,7 @@ A "ecologia" como disciplina têm sido ampliada para englobar não somente a par
 ## Impacto del uso y ocupación de la tierra + clima
 
 .center[
-<img src="fig/Slide44.png" style="width:70%;">
+<img src="fig/Slide44.PNG" style="width:70%;">
 ]
 ---
 # Animales venenosos y medio ambiente
@@ -959,7 +959,7 @@ A "ecologia" como disciplina têm sido ampliada para englobar não somente a par
 ## Impacto del uso y ocupación de la tierra + clima
 
 .center[
-<img src="fig/Slide45.png" style="width:70%;">
+<img src="fig/Slide45.PNG" style="width:70%;">
 ]
 ---
 # Animales venenosos y medio ambiente
@@ -967,7 +967,7 @@ A "ecologia" como disciplina têm sido ampliada para englobar não somente a par
 ## Impacto del uso y ocupación de la tierra + clima
 
 .center[
-<img src="fig/Slide46.png" style="width:70%;">
+<img src="fig/Slide46.PNG" style="width:70%;">
 ]
 
 ---
@@ -976,7 +976,7 @@ A "ecologia" como disciplina têm sido ampliada para englobar não somente a par
 ## Impacto del uso y ocupación de la tierra + clima
 
 .center[
-<img src="fig/Slide47.png" style="width:70%;">
+<img src="fig/Slide47.PNG" style="width:70%;">
 ]
 
 ---
@@ -985,7 +985,7 @@ A "ecologia" como disciplina têm sido ampliada para englobar não somente a par
 ## Impacto del uso y ocupación de la tierra + clima
 <br>
 .center[
-<img src="fig/Slide48.png" style="width:90%;">
+<img src="fig/Slide48.PNG" style="width:90%;">
 
 <br>
 
@@ -998,7 +998,7 @@ A "ecologia" como disciplina têm sido ampliada para englobar não somente a par
 ## Impacto del uso y ocupación de la tierra + clima
 
 .center[
-<img src="https://ourworldindata.org/uploads/2021/03/Distribution-of-earths-mammals.png" style="width:45%;">
+<img src="https://ourworldindata.org/uploads/2021/03/Distribution-of-earths-mammals.PNG" style="width:45%;">
 ]
 
 ---
@@ -1012,7 +1012,7 @@ name: espacial
 
 
 .center[
-<img src="fig/Slide60.png" style="width:65%;">
+<img src="fig/Slide60.PNG" style="width:65%;">
 ]
 
 <!---
@@ -1046,7 +1046,7 @@ A consequência de ignorar a dependência, se presente, é que os intervalos de 
 ## John Snow - historia
 
 .center[
-<img src="fig/Slide62.png" style="width:65%;">
+<img src="fig/Slide62.PNG" style="width:65%;">
 ]
 Mapa de Londres del brote de cólera de 1854 de John Snow (las muertes se muestran como puntos, las bombas de agua como cruces). 
 
@@ -1072,7 +1072,7 @@ Um dos desafios do século atual é melhorar a compreensão e a percepção do p
   
 .pull-left[
 <br>
-<img src="http://andersonmedeiros.files.wordpress.com/2010/06/etapas_de_um_sig.png" style="width:90%;">
+<img src="http://andersonmedeiros.files.wordpress.com/2010/06/etapas_de_um_sig.PNG" style="width:90%;">
 ]
 
 .pull-right[
@@ -1105,7 +1105,7 @@ Além disso, os SIGs vêm crescendo em todo o mundo, visto que sua interface pos
 ### Teledetección
 
 .center[
-<img src="fig/Slide63.png" style="width:70%;">
+<img src="fig/Slide63.PNG" style="width:70%;">
 ]
 
 <!---
@@ -1132,7 +1132,7 @@ Por fim obtemos um produto de nosso interesse, pode ser um mapa de vegetação, 
 ### Teledetección
 
 .center[
-<img src="fig/Slide64.png" style="width:70%;">
+<img src="fig/Slide64.PNG" style="width:70%;">
 ]
 
 <!---
@@ -1147,7 +1147,7 @@ es el geoprocesamiento el que generará información para la toma de decisiones
 ### ¿Y cómo son estos productos?
 
 .center[
-<img src="fig/Slide65.png" style="width:47%;">
+<img src="fig/Slide65.PNG" style="width:47%;">
 ]
 
 ---
@@ -1158,7 +1158,7 @@ es el geoprocesamiento el que generará información para la toma de decisiones
 ### Raster
 
 .pull-left[
-<img src="fig/Slide66.png" style="width:120%;">
+<img src="fig/Slide66.PNG" style="width:120%;">
 .center[¡Una gran matriz de datos!]
 ]
 
@@ -1193,7 +1193,7 @@ Os dados raster são compostos por linhas (horizontais) e colunas (verticais) de
 ]
 
 ---
-background-image: url(https://freepikpsd.com/wp-content/uploads/2019/10/vector-flecha-png-4-Transparent-Images.png)
+background-image: url(https://freepikpsd.com/wp-content/uploads/2019/10/vector-flecha-PNG-4-Transparent-Images.PNG)
 background-size: 65px
 background-position: 55% 65%
 
@@ -1207,7 +1207,7 @@ background-position: 55% 65%
 
 .pull-left[
 .center[
-<img src="https://www.intermap.com/hs-fs/hubfs/RES-2.png?width=600&name=RES-2.png" style="width:80%;">
+<img src="https://www.intermap.com/hs-fs/hubfs/RES-2.PNG?width=600&name=RES-2.PNG" style="width:80%;">
 ]]
 
 .pull-right[
@@ -1302,7 +1302,7 @@ Algunas variables que normalmente encontramos como vector:
 ]
 
 .pull-right[
-<img src="https://miro.medium.com/max/1092/1*nR6KLK_vvIdSdvgsQS2Xdw.png" style="width:80%;">
+<img src="https://miro.medium.com/max/1092/1*nR6KLK_vvIdSdvgsQS2Xdw.PNG" style="width:80%;">
 
 ]
 
@@ -1314,7 +1314,7 @@ Algunas variables que normalmente encontramos como vector:
 ### Importancia de la escala
 
 .center[
-<img src="fig/Slide90.png" style="width:65%;">
+<img src="fig/Slide90.PNG" style="width:65%;">
 ]
 
 ---
@@ -1388,7 +1388,7 @@ Algunas variables que normalmente encontramos como vector:
 ## Marco para el análisis espacial
 
 .center[
-<img src="fig/gis_org.png" style="width:65%;">
+<img src="fig/gis_org.PNG" style="width:65%;">
 ]
 
 <!---
@@ -1436,7 +1436,7 @@ Os objetivos da análise epidemiológica espacial são a descrição de padrões
 ### Cómo organizar la hoja de datos
 
 .pull-left[
-<img src="fig/Slide68.png" style="width:90%;">
+<img src="fig/Slide68.PNG" style="width:90%;">
 ]
 
 .pull-right[
@@ -1480,11 +1480,11 @@ leaflet() %>% addTiles() %>% addRasterImage(rr, col = pal, opacity = 0.5, group 
 ### Cómo organizar la hoja de datos
 
 .center[
-<img src="fig/Slide69.png" style="width:65%;">
+<img src="fig/Slide69.PNG" style="width:65%;">
 ]
 
 ---
-background-image: url(https://freepikpsd.com/wp-content/uploads/2019/10/vector-flecha-png-4-Transparent-Images.png)
+background-image: url(https://freepikpsd.com/wp-content/uploads/2019/10/vector-flecha-PNG-4-Transparent-Images.PNG)
 background-size: 50px
 background-position: 43% 50%
 
@@ -1495,7 +1495,7 @@ background-position: 43% 50%
 ### Cómo organizar la hoja de datos
 
 .pull-left[
-<img src="fig/Slide70.png" style="width:75%;">
+<img src="fig/Slide70.PNG" style="width:75%;">
 ]
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
@@ -1554,7 +1554,7 @@ t2 %>% kbl(caption = "Tabla de datos") %>% kable_classic(full_width = F, html_fo
 ### Cómo organizar la hoja de datos
 
 .center[
-<img src="https://simulatingcomplexity.files.wordpress.com/2014/11/netcdf-file-structure.png" style="width:50%;">
+<img src="https://simulatingcomplexity.files.wordpress.com/2014/11/netcdf-file-structure.PNG" style="width:50%;">
 ]
 
 ---
@@ -1565,7 +1565,7 @@ t2 %>% kbl(caption = "Tabla de datos") %>% kable_classic(full_width = F, html_fo
 ### Cómo organizar la hoja de datos
 <br>
 .center[
-<img src="https://www.researchgate.net/publication/315950787/figure/fig3/AS:567797237248005@1512384818972/An-example-of-how-a-dataset-netCDF-or-xarray-for-a-weather-forecast-might-be.png" style="width:90%;">
+<img src="https://www.researchgate.net/publication/315950787/figure/fig3/AS:567797237248005@1512384818972/An-example-of-how-a-dataset-netCDF-or-xarray-for-a-weather-forecast-might-be.PNG" style="width:90%;">
 ]
 
 ---
@@ -1598,7 +1598,7 @@ t3 %>% kbl(caption = "Tabla de datos") %>% kable_classic(full_width = F, html_fo
 ## Tipos de estudios ecoepidemiológicos con animales venenosos
 
 .center[
-<img src="fig/Slide83.png" style="width:80%;">
+<img src="fig/Slide83.PNG" style="width:80%;">
 ]
 
 ---
@@ -1607,7 +1607,7 @@ t3 %>% kbl(caption = "Tabla de datos") %>% kable_classic(full_width = F, html_fo
 ## Métodos analíticos
 
 .center[
-<img src="fig/Slide84.png" style="width:80%;">
+<img src="fig/Slide84.PNG" style="width:80%;">
 ]
 <!---
 Os objetivos analíticos específicos conduzem a três grupos de métodos analíticos: visualização, exploração e modelagem. Os primeiros dois grupos cobrem técnicas que se concentram exclusivamente no exame da dimensão espacial dos dados. A visualização é provavelmente o método de análise espacial mais comumente usado, resultando em mapas que descrevem padrões espaciais e que são úteis para estimular
@@ -1625,7 +1625,7 @@ A modelagem introduz o conceito de relações de causa e efeito usando fontes de
 .pull-left[
 <br>
 <br>
-<img src="fig/Slide89.png" style="width:100%;">
+<img src="fig/Slide89.PNG" style="width:100%;">
 ]
 
 .pull-right[
@@ -1674,7 +1674,7 @@ decisión.
 ]
 
 .pull-right[
-<img src="fig/Slide86.png" style="width:110%;">
+<img src="fig/Slide86.PNG" style="width:110%;">
 ]
 
 ---
@@ -1685,7 +1685,7 @@ decisión.
 ### Clasificación de la estadística
 
 .center[
-<img src="fig/Slide85.png" style="width:70%;">
+<img src="fig/Slide85.PNG" style="width:70%;">
 ]
 
 ---
@@ -1696,7 +1696,7 @@ decisión.
 ### Clasificación de variables
 
 .center[
-<img src="fig/Slide87.png" style="width:70%;">
+<img src="fig/Slide87.PNG" style="width:70%;">
 ]
 
 ---
@@ -1707,7 +1707,7 @@ decisión.
 ### Exploración de datos
 
 .center[
-<img src="fig/Slide88.png" style="width:70%;">
+<img src="fig/Slide88.PNG" style="width:70%;">
 ]
 
 ---
@@ -1739,7 +1739,7 @@ decisión.
 <div class="background" style="width: 1150px; height: 400px; white-space: nowrap; overflow-x: scroll; border: 0; padding: 0px;">
 
 .center[
-<img src="fig/graphs.png" style="width:100%;">
+<img src="fig/graphs.PNG" style="width:100%;">
 ]
 
 ---
@@ -1754,7 +1754,7 @@ decisión.
 <div class="background" style="width: 1150px; height: 400px; white-space: nowrap; overflow-x: scroll; border: 0; padding: 0px;">
 
 .center[
-<img src="fig/categorical.png" style="width:100%;">
+<img src="fig/categorical.PNG" style="width:100%;">
 ]
 
 ---
@@ -1769,7 +1769,7 @@ decisión.
 <div class="background" style="width: 1150px; height: 400px; white-space: nowrap; overflow-x: scroll; border: 0; padding: 0px;">
 
 .center[
-<img src="fig/num_cat.png" style="width:100%;">
+<img src="fig/num_cat.PNG" style="width:100%;">
 ]
 
 ---
@@ -1784,7 +1784,7 @@ decisión.
 <div class="background" style="width: 1150px; height: 400px; white-space: nowrap; overflow-x: scroll; border: 0; padding: 0px;">
 
 .center[
-<img src="fig/temp.png" style="width:80%;">
+<img src="fig/temp.PNG" style="width:80%;">
 ]
 
 ---
@@ -1793,7 +1793,7 @@ decisión.
 .center[
 **<p style="font-size:50px;">Visualización de datos</p>**
 
-<img src="https://www.iconpacks.net/icons/1/free-bar-chart-icon-676-thumb.png" style="width:20%;">
+<img src="https://www.iconpacks.net/icons/1/free-bar-chart-icon-676-thumb.PNG" style="width:20%;">
 
 **<p style="font-size:60px;">Algunos ejemplos útiles</p>**
 ]
@@ -1966,7 +1966,7 @@ plot_ly(df) %>%
 <div class="background" style="width: 1150px; height: 425px; white-space: nowrap; overflow-x: scroll; border: 0; padding: 0px;">
 
 .center[
-<img src="fig/cor4.png" style="width:45%;">
+<img src="fig/cor4.PNG" style="width:45%;">
 ]
 
 ---
@@ -1979,7 +1979,7 @@ plot_ly(df) %>%
 (Relación entre 2 variables numéricas)
 
 .center[
-<img src="fig/Slide72.png" style="width:60%;">
+<img src="fig/Slide72.PNG" style="width:60%;">
 ]
 
 ---
@@ -1992,7 +1992,7 @@ plot_ly(df) %>%
 (Relación entre 2 variables numéricas)
 
 .center[
-<img src="fig/Slide73.png" style="width:60%;">
+<img src="fig/Slide73.PNG" style="width:60%;">
 ]
 
 ---
@@ -2005,7 +2005,7 @@ plot_ly(df) %>%
 (Relación entre 2 variables numéricas)
 
 .center[
-<img src="fig/Slide74.png" style="width:60%;">
+<img src="fig/Slide74.PNG" style="width:60%;">
 ]
 
 ---
@@ -2018,7 +2018,7 @@ plot_ly(df) %>%
 (Relación entre 2 variables numéricas)
 
 .center[
-<img src="fig/Slide75.png" style="width:60%;">
+<img src="fig/Slide75.PNG" style="width:60%;">
 ]
 
 ---
@@ -2031,7 +2031,7 @@ plot_ly(df) %>%
 (Relación entre 2 variables numéricas)
 
 .center[
-<img src="fig/Slide76.png" style="width:60%;">
+<img src="fig/Slide76.PNG" style="width:60%;">
 ]
 
 ---
@@ -2087,7 +2087,7 @@ pp
 ```
 
 .center[
-<img src="fig/blegend.png" style="width:50%;">
+<img src="fig/blegend.PNG" style="width:50%;">
 ]
 
 <!--
@@ -2115,7 +2115,7 @@ Esta última variável é muito mais difícil de interpretar do que aquela nos e
 <div class="background" style="width: 1100px; height: 425px; white-space: nowrap; overflow-x: scroll; border: 0; padding: 0px;">
 
 .center[
-<img src="fig/map_graph.png" style="width:70%;">
+<img src="fig/map_graph.PNG" style="width:70%;">
 ]
 
 ---
@@ -2124,7 +2124,7 @@ Esta última variável é muito mais difícil de interpretar do que aquela nos e
 .center[
 **<p style="font-size:50px;">Visualización de datos</p>**
 
-<img src="https://images.vexels.com/media/users/3/155717/isolated/preview/8934c36ada5d23627c77bc8f2478eadd-camping-map-icon-by-vexels.png" style="width:20%;">
+<img src="https://images.vexels.com/media/users/3/155717/isolated/preview/8934c36ada5d23627c77bc8f2478eadd-camping-map-icon-by-vexels.PNG" style="width:20%;">
 
 **<p style="font-size:60px;">Algunos ejemplos útiles - Mapas</p>**
 ]
@@ -2139,9 +2139,9 @@ Esta última variável é muito mais difícil de interpretar do que aquela nos e
 
 <div class="background" style="width: 1150px; height: 400px; white-space: nowrap; overflow-x: scroll; border: 0; padding: 0px;">
 
-.pull-left[<img src="fig/bubble2.png" style="width:90%;">]
+.pull-left[<img src="fig/bubble2.PNG" style="width:90%;">]
 
-.pull-right[<img src="fig/bubble.png" style="width:90%;">]
+.pull-right[<img src="fig/bubble.PNG" style="width:90%;">]
 
 <!--
 A bubble map usa círculos de tamanhos diferentes para representar um valor numérico em um território. Ele exibe uma bolha por coordenada geográfica ou uma bolha por região (neste caso, a bolha geralmente é exibida no baricentro da região).
@@ -2164,7 +2164,7 @@ Uma lista de regiões com valores atribuídos e limites conhecidos. Observe que 
 
 <div class="background" style="width: 1150px; height: 400px; white-space: nowrap; overflow-x: scroll; border: 0; padding: 0px;">
 .center[
-<img src="fig/cloro.png" style="width:70%;">
+<img src="fig/cloro.PNG" style="width:70%;">
 ]
 
 <!---
@@ -2172,7 +2172,7 @@ Um "choropleth map" exibe áreas geográficas divididas ou regiões coloridas em
 -->
 
 ---
-background-image: url(https://freepikpsd.com/wp-content/uploads/2019/10/vector-flecha-png-4-Transparent-Images.png)
+background-image: url(https://freepikpsd.com/wp-content/uploads/2019/10/vector-flecha-PNG-4-Transparent-Images.PNG)
 background-size: 50px
 background-position: 46% 50%
 
@@ -2185,7 +2185,7 @@ background-position: 46% 50%
 
 <div class="background" style="width: 1150px; height: 400px; white-space: nowrap; overflow-x: scroll; border: 0; padding: 0px;">
 
-.pull-left[<img src="fig/carto.png" style="width:90%;">]
+.pull-left[<img src="fig/carto.PNG" style="width:90%;">]
 
 
 .pull-right[<img src="fig/cartog_gif.gif" style="width:90%;">]
@@ -2210,7 +2210,7 @@ Por exemplo, imagine que você exibe o salário médio por região em seu mapa c
 
 <div class="background" style="width: 1150px; height: 400px; white-space: nowrap; overflow-x: scroll; border: 0; padding: 0px;">
 
-<img src="fig/raster.png" style="width:90%;">
+<img src="fig/raster.PNG" style="width:90%;">
 
 ---
 # (Eco-)epidemiología espacial
@@ -2221,7 +2221,7 @@ Por exemplo, imagine que você exibe o salário médio por região em seu mapa c
 
 <div class="background" style="width: 1150px; height: 450px; white-space: nowrap; overflow-x: scroll; border: 0; padding: 0px;">
 
-<img src="fig/comb2.png" style="width:92%;">
+<img src="fig/comb2.PNG" style="width:92%;">
 
 ---
 # (Eco-)epidemiología espacial
@@ -2232,7 +2232,7 @@ Por exemplo, imagine que você exibe o salário médio por região em seu mapa c
 
 <div class="background" style="width: 1150px; height: 450px; white-space: nowrap; overflow-x: scroll; border: 0; padding: 0px;">
 
-<img src="fig/comb.png" style="width:92%;">
+<img src="fig/comb.PNG" style="width:92%;">
 
 ---
 # (Eco-)epidemiología espacial
@@ -2244,7 +2244,7 @@ Por exemplo, imagine que você exibe o salário médio por região em seu mapa c
 <div class="background" style="width: 1150px; height: 450px; white-space: nowrap; overflow-x: scroll; border: 0; padding: 0px;">
 
 .center[
-<img src="fig/Slide82.png" style="width:90%;">
+<img src="fig/Slide82.PNG" style="width:90%;">
 ]
 
 ---
@@ -2255,7 +2255,7 @@ Por exemplo, imagine que você exibe o salário médio por região em seu mapa c
 ### Modelado
 
 .center[
-<img src="fig/Slide48.png" style="width:90%;">
+<img src="fig/Slide48.PNG" style="width:90%;">
 ]
 
 ---
@@ -2282,7 +2282,7 @@ A modelagem matemática é a área do conhecimento que estuda a simulação de s
 ### Modelo estadístico
 
 .pull-left[
-<img src="fig/elephant.png" style="width:80%;">
+<img src="fig/elephant.PNG" style="width:80%;">
 ]
 
 .pull-left[
@@ -2307,7 +2307,7 @@ A modelagem matemática é a área do conhecimento que estuda a simulação de s
 
 .pull-left[
 <br>
-<img src="fig/mod.png" style="width:75%;">
+<img src="fig/mod.PNG" style="width:75%;">
 ]
 
 .pull-left[
@@ -2366,7 +2366,7 @@ iris %>% ggplot(aes(x = Petal.Width, y = Sepal.Length)) +
 ## Software y lenguajes de programación
 
 .center[
-<img src="fig/Slide91.png" style="width:80%;">
+<img src="fig/Slide91.PNG" style="width:80%;">
 ]
 
 ---
@@ -2377,7 +2377,7 @@ name: ejemplo
 ## Ecoepidemiología del lonomismo en Sudamérica 
 
 .center[
-<img src="fig/cuida.png" style="width:60%;">
+<img src="fig/cuida.PNG" style="width:60%;">
 ]
 
 ---
@@ -2410,10 +2410,10 @@ Marília Melo Favalesso, Lisete Maria Lorini, Maria Elisa Peichoto & Ana Tereza 
 
 Marília Melo Favalesso, Lisete Maria Lorini, Maria Elisa Peichoto & Ana Tereza Bittencourt Guimarães
 
-.center[<img src="fig/Slide93.png" style="width:88%;">]
+.center[<img src="fig/Slide93.PNG" style="width:88%;">]
 
 ---
-background-image: url(https://freepikpsd.com/wp-content/uploads/2019/10/vector-flecha-png-4-Transparent-Images.png)
+background-image: url(https://freepikpsd.com/wp-content/uploads/2019/10/vector-flecha-PNG-4-Transparent-Images.PNG)
 background-size: 50px
 background-position: 48% 50%
 
@@ -2443,7 +2443,7 @@ Marília Melo Favalesso, Lisete Maria Lorini, Maria Elisa Peichoto & Ana Tereza 
 ]
 
 .pull-right[
-<img src="fig/Slide92.png" style="width:90%;">
+<img src="fig/Slide92.PNG" style="width:90%;">
 ]
 
 ---
@@ -2455,10 +2455,10 @@ Marília Melo Favalesso, Eliana Burgos, Maria Elisa Peichoto & Ana Tereza Bitten
 
 <div class="background" style="width: 1150px; height: 450px; white-space: nowrap; overflow-x: scroll; border: 0; padding: 0px;">
 
-.center[<img src="fig/poster.png" style="width:90%;">]
+.center[<img src="fig/poster.PNG" style="width:90%;">]
 
 ---
-background-image: url(https://freepikpsd.com/wp-content/uploads/2019/10/vector-flecha-png-4-Transparent-Images.png)
+background-image: url(https://freepikpsd.com/wp-content/uploads/2019/10/vector-flecha-PNG-4-Transparent-Images.PNG)
 background-size: 50px
 background-position: 48% 50%
 
@@ -2469,9 +2469,9 @@ background-position: 48% 50%
 
 Milena Gisela Casafús, Marília Melo Favalesso, Micaela Andrea Gritti, Juan Manuel Coronel, Ana Tereza Bittencourt Guimarães & Maria Elisa Peichoto
 
-.pull-left[<img src="fig/density.png" style="width:95%;">]
+.pull-left[<img src="fig/density.PNG" style="width:95%;">]
 
-.pull-right[.center[<img src="fig/fig_3.png" style="width:50%;">]]
+.pull-right[.center[<img src="fig/fig_3.PNG" style="width:50%;">]]
 
 ---
 # Muchas gracias!!
