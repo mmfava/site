@@ -91,11 +91,11 @@ name: epidemio
 ]
 
 <!---
-A 'epidemiologia' é o estudo da distribuição e determinantes da doença nas populações e sua aplicação no controle dos problemas de saúde.
+A epidemiologia é o estudo da ocorrência e distribuição de eventos, estados e processos relacionados a saúde de uma população específica, incluindo o estudo dos determinantes que influem nestes processos e a aplicação desse conhecimento para controlar os problemas de saude relevantes. 
 
-**Distribuição**: análise no tempo, espaço ou população;
+Destaquei algumas palavras que considero chaves quando se trata de definir o que é epidemiologia:
 
-**Eventos, estados e processos**: Inclui surtos, doenças, agravos, causas de morte, comportamentos, processos ambientais e socioeconômicos, efeitos de programas preventivos e uso de serviços sociais e de saúde.
+Quando falamos sobre a "distribuição de eventos, estados e processos relacionados com a saúde de populações especificas", estamos falando sobre surtos, doenças, agravos, causas de morte, comportamento, processos ambientais e sociodemograficos, de programas de prevenção etc no tempo, espaço ou população. 
 
 **Populações especificadas** são aqueles com contextos comuns e características identificáveis. 
 
@@ -103,7 +103,6 @@ A 'epidemiologia' é o estudo da distribuição e determinantes da doença nas p
 
 **Aplicativo para controlar** torna explícito o objetivo da epidemiologia - promover, proteger e restaurar a saúde, e para avançar o conhecimento científico. 
 
-Assim, os 'epidemiologistas' estudam onde ocorrem doenças, problemas de saúde e mortalidade prematura, como esses fenômenos são distribuídos nas comunidades, quais trajetórias eles seguem, e o quecausa-os.
 -->
 
 
@@ -122,19 +121,26 @@ Assim, os 'epidemiologistas' estudam onde ocorrem doenças, problemas de saúde 
 - [Susser & Susser (1996)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1380475/pdf/amjph00516-0068.pdf) aún vislumbran un futuro cierre de la era de las enfermedades crónicas, que daría lugar a una nueva etapa marcada por la **Ecoepidemiológica**.
 
 <!---
-Ao longo de sua história, a epidemiologia passou por inúmeros desenvolvimentos metodológicos e conceituais, bem como mudanças na escala em que epidemiologistas concentram suas pesquisas (nível do indivíduo, nível da população, etc). 
+Ao longo da história de epidemiologia, essa disciplina passou por inúmeros desenvolvimentos metodológicos e conceituais, bem como mudanças na escala em que epidemiologistas concentram suas pesquisas (nível do indivíduo, nível da população, etc). 
 
 Susser & Susser (1996a, 1996b) analisam a evolução da epidemiologia moderna através de três eras, considerando que cada uma delas teria um paradigma dominante característico que seria responsável pela definição da abordagem preventiva de cada era. 
 
 - Assim, a primeira foi representada pelas estatísticas sanitárias que teve como paradigma o miasma. 
 
+Esse paradigma foi formulado por Sydenham e Lancisi no seculo 17 e tinha como base a ideia que as doenças seriam provenientes de matéria orgânica em putrefação nos solos e lençóis freáticos contaminados. Especificamente, seriam os cheiros os responsáveis pela causa de doenças. Hoje a miasmática é considerada absoleta, ao ser consensual e aceita a teoria microbiana (que é a a segunda era).
+
 - Na segunda estaria a epidemiologia das doenças infecciosas trazendo a teoria do germe como paradigma dominante. 
 
-- A terceira era, a atual, é caracterizada pela epidemiologia das doenças crônicas que teria como paradigma a caixa preta, que simboliza o paradigma da epidemiologia dos fatores de risco para as doenças crônicas. 
+A teoria microbiana das doenças é uma teoria científica que estabelece que os microorganismos são a causa de inúmeras doenças. Embora bastante controversa quando inicialmente proposta, a teoria microbiana foi confirmada no final do século XIX e é hoje parte integrante da microbiologia clínica e medicina modernas, estando na origem de inovações importantes como os antibióticos e hábitos de higiene.
 
-Para os autores, nas duas primeiras eras a saúde pública teria papel central, mas na era presente a ênfase dada à saúde pública estaria mais tênue. 
+- A terceira era, considera como a atual no tempo de publicação do paper, é caracterizada pela epidemiologia das doenças crônicas que teria como paradigma a caixa preta, que simboliza o paradigma da epidemiologia dos fatores de risco para as doenças crônicas. 
 
-Susser e Susser prevêem ainda um futuro fechamento desta terceira era, que daria lugar a uma nova etapa marcada pela eco-epidemiologia, onde o desdobramento em um paradigma diferente se tornará essencial. 
+Ela se firmou quando foram registrados estudos de caso-controle e coorte sobre a relaçaõ entre o câncer de pulmão e o ato de furmar, bem como os primeiros estudos sobre a doença coronariana, que definiram o colesterl sério e o fumo como fatores de risco, desmontrando o poder do método observacional. 
+
+O problema desse pardigma foi o 'imprimatur' - o que define o paradigma - que seria relacionar a expsição ao resultados sem que isso implicasse na obrigação de interpolar fatores intermediários, ou mesmo a patogênese.
+
+Susser e Susser previram um futuro fechamento desta terceira era, que daria lugar a uma nova etapa marcada pela eco-epidemiologia, onde o desdobramento em um paradigma diferente se tornará essencial. 
+
 -->
 
 ---
@@ -153,7 +159,7 @@ name: ecoepidemio
 <!---
 Para exemplificar a necessidade de um novo paradigma, os autores citam como exemplo a epidemia do HIV que precisou ser pensando em diferentes niveis de análise: desde o molecular (como a doença se deciminava de uma pessa a outra e como interromper isso), ao nível intermedio (comportamento dos individuos em nivel social, dentro de suas comunidades) e ao nível populacional (em que a dinamica da epidemia é governada pela propria prevalencia bem como por outras caracteristicas da população). 
 
-Os autores falam que, como investigadores, nós estamos condicionados pelas nossas capacidades e pela necessidade a tender ao reducionismo, fazendo a ligação entre uma única coisa e outra coisa para entender a sua relação causal. Por exemplo, entendendo a contaminação a nivel molecar apenas, ou entendendo como o virus se dissemina em uma comunidade ou como atua em uma população. Para os autroes, a melhor esperança para conter uma pandemia não é a realização desses estudos em paralelos, sem conexão entre eles, mas sim de estrategias coerentes que possa unir todos esses niveis de interesse em um único estudo para entender o comportamento da doença na população. 
+Os autores falam que, como investigadores, nós estamos condicionados pelas nossas capacidades e pela necessidade a tender ao reducionismo, fazendo a ligação entre uma única coisa e outra coisa para entender a sua relação causal. Por exemplo, entendendo a contaminação a nivel molecar apenas, ou entendendo como o virus se dissemina em uma comunidade ou como atua em uma população. Para os autroes, a melhor esperança para conter uma pandemia não é a realização desses estudos isoladamente, sem conexão entre eles, mas sim de estrategias coerentes que possa unir todos esses niveis de interesse em um único estudo para entender o comportamento da doença na população. 
 
 -->
 
@@ -182,11 +188,13 @@ INTUITO DE EXPLICAR DE ONDE VEM O ECO DE 'ECOEPIDEMIOLOGIA'
 
 Como todas as ciências, a epidemiologia busca conceitos gerais que explicam as causas das coisas. Na história da ciência, entretanto, podemos encontrar mais de um conceito geral. Portanto, o universalismo das ciências físicas deve ser complementado pelo ecologismo das ciências biológicas. Em contraste com o universalismo, o ecologismo busca localizar e compreender os limites que limitam as generalizações dos sistemas biológicos, humanos e sociais.
 
-A busca por leis universais do mundo material deve lidar com um paradoxo. Quanto menores os elementos microcósmicos interagentes que essas leis explicam, mais provavelmente esses elementos são universais. Universalidade implica uma visão do espaço e do tempo expandindo-se para fora através das fronteiras e horizontes de nosso mundo e de outros, desimpedida pelos acréscimos locais e características de estruturas intervenientes, como planetas, continentes ou nosso mundo biológico, incluindo pessoas.
+Segundo os autores, a busca por leis universais do mundo material lida com um paradoxo. Quanto menores os elementes microscómicos interagentes que essas leis explicam, mais provavelmente esses elementos são universais - indiferente a tempo e espaço. 
 
-Algumas leis podem ser aplicadas em nosso planeta para as espécies e os processos evolutivos que as produziram. Mas acima o nível das moléculas, nenhuma entidade biológica pode se conformar inteiramente às leis universais por causa dos contextos abrangentes e das interações entre os níveis dentro de um estrutura biológica. E o fato banal é que cada sociedade é influenciada por suas circunstâncias econômicas, políticas e culturais, bem como por sua mistura de povos, clima e topografia. O que é mais universal é menos biológico e, acima de tudo, menos humano.
+Algumas leis podem ser aplicadas em nosso planeta para as espécies e os processos evolutivos que as produzem; mas acima do nível das moleculas, nenhuma entidade biológica consegue ser explica 100% por uma única "regra". O fato banal aqui é que cada sociedade é influenciada por suas circunstâncias econômicas, políticas e culturas, bem como por sua mistura de povos, clima e topografia. Por isso que, quanto mais universal é uma regra, menos biológica ela se torna e, acima de tudo, menos humana. 
 
-Segue-se que o universalismo não é universalmente aplicável ao esforço científico. Assim, quando entramos nos reinos físico, biológico e social do mundo humano, precisamos de um conjunto paralelo de ideias entrelaçadas com a busca pela generalidade. Em epidemiologia, a má adaptação do universalismo à realidade humana é melhor substituída por uma construção contrastante de ecologismo. Os construtos ecológicos tentam lidar com a verdadeira complexidade do mundo biológico. Essas construções devem ser localizadas em vários graus; eles devem ser limitados se pretendem abranger todos os níveis menos que universais do mundo biológico e suas interações particulares.
+Assim, o universalismo não é universalmente aplicável a epidemiologia. Quando entramos nos reinos físico, biológico e social do mundo humano, precisamos de um conjunto paralelo de ideias entrelaçadas com a busca pela generalidade. 
+
+Para Susser e Susser, a má adaptação do universalismo à realidade humana na epidemiologia é melhor substituída por uma construção contrastante de ecologismo. Os construtos ecológicos tentam lidar com a verdadeira complexidade do mundo biológico. Essas construções devem ser localizadas em vários graus; eles devem ser limitados se pretendem abranger todos os níveis menos que universais do mundo biológico e suas interações particulares.
 -->
 
 ---
@@ -203,7 +211,9 @@ Segue-se que o universalismo não é universalmente aplicável ao esforço cient
 ]
 
 <!---
-O novo paradigma proposto por Susser e Susser foi nomedo de "paradigma das caixas chineasas". Segundo os autores, a epidemiologia seria composta por uma gama de sistemas interconectos, semelhante as caixas chinesas. Cada caixa seria um sistema único, mas que estaria dentro de um sistema maior e assim por diante. Esses sistemas não estariam fechados dentro de si, tendo uma conexão com os demais sistemas. 
+Assim, Susser e Susser propõe um paradigma para a eco-epidemiologia: o paradigma das caixas chinesas. 
+
+Segundo os autores, a epidemiologia seria composta por uma gama de sistemas interconectos, semelhante as caixas chinesas. Cada caixa seria um sistema único, mas que estaria dentro de um sistema maior e assim por diante. Esses sistemas não estariam fechados dentro de si, tendo uma conexão com os demais sistemas. 
 -->
 
 ---
@@ -211,7 +221,7 @@ O novo paradigma proposto por Susser e Susser foi nomedo de "paradigma das caixa
 
 ## Cajas chinas: un paradigma de la ecoepidemiología
 
-- Un sistema es un conjunto o conjuntos de factores conectados entre sí y que, de alguna manera, presentan una relación coherente. Por tanto, un sistema es una abstracción que permite describir un conjunto de factores relacionados en términos de una estructura o función coherent (e.j. El cuerpo humano es un sistema; La sociedad es un sistema).
+- Un sistema es un conjunto o conjuntos de factores conectados entre sí y que, de alguna manera, presentan una relación coherente. Por tanto, un sistema es una abstracción que permite describir un conjunto de factores relacionados en términos de una estructura o función coherente (e.j. El cuerpo humano es un sistema; La sociedad es un sistema).
 
 - Cada sistema se puede describir en sus propios términos. 
 
@@ -224,9 +234,13 @@ O novo paradigma proposto por Susser e Susser foi nomedo de "paradigma das caixa
 .center[([Susser & Susser 1996](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1380475/pdf/amjph00516-0068.pdf))]
 
 <!---
-Cada sistema pode ser descrito em seus próprios termos. Cada um define os limites de um determinado nível de organização e a estrutura dentro desses limites. Assim, pode-se identificar um conjunto de fatores que compõem um sistema. Sua coerência implica um certo grau de persistência e estabilidade. Essa estabilidade coexiste, porém, com a capacidade de mudança. Como os fatores contidos em um sistema se relacionam de alguma forma, a mudança e a atividade em um setor interferem e afetam outros setores.
+(...)
 
-A ideia é unificar a epidemiologia molecular, clínica e social em uma aplicação multinível de métodos voltados para a identificação de causas, categorização de riscos e controle de problemas de saúde pública.
+Cada um define os limites de um determinado nível de organização e a estrutura dentro desses limites; tudo depende (COMO TUDO NA BIO!).
+
+Assim, pode-se identificar um conjunto de fatores que compõem um sistema. Sua coerência implica um certo grau de persistência e estabilidade. Essa estabilidade coexiste, porém, com a capacidade de mudança. Como os fatores contidos em um sistema se relacionam de alguma forma, a mudança e a atividade em um setor interferem e afetam outros setores.
+
+A ideia do paradigma das caixas chinesas é a de unificar a epidemiologia molecular, clínica e social em uma aplicação multinível de métodos voltados para a identificação de causas, categorização de riscos e controle de problemas de saúde pública.
 
 -->
 ---
@@ -242,7 +256,17 @@ A ideia é unificar a epidemiologia molecular, clínica e social em uma aplicaç
 ]
 
 <!---
-A metáfora das caixas chinesas talvez não seja adequada em todas as dimensões, visto que os níveis existem em uma hierarquia não apenas de escala, mas também de complexidade, com múltiplas interações entre e dentro dos níveis. A caixa externa pode ser o ambiente físico abrangente que, por sua vez, contém sociedades e populações (o terreno epidemiológico), indivíduos individuais e sistemas fisiológicos individuais, tecidos e células e, finalmente (na biologia) moléculas.
+Uma form de pensar o paradigma: 
+
+A caixa externa pode ser o ambiente físico abrangente que, por sua vez, contém sociedades e populações (o terreno epidemiológico), indivíduos individuais e sistemas fisiológicos individuais, tecidos e células e, finalmente (na biologia) moléculas.
+
+
+-- 
+
+Uma observação importante! 
+
+A metáfora das caixas chinesas talvez não seja adequada em todas as dimensões (caixas), visto que os níveis existem em uma hierarquia não apenas de escala, mas também de complexidade, com múltiplas interações entre e dentro dos níveis.
+
 -->
 
 ---
@@ -274,6 +298,8 @@ Ecoepidemiologia é multidisciplinar!
 
 <!---
 - A principios de la década de 1980, este término se aplicó al estudio de las influencias ecológicas en la salud humana, ya sea relacionadas con contaminantes ambientales o interacciones biológicas como los ciclos de vida de los parásitos.
+
+(...)
 -->
 
 .center[([Soskolne et al. 2007](https://www.colinsoskolne.com/documents/change.pdf))]
@@ -282,6 +308,7 @@ Ecoepidemiologia é multidisciplinar!
 # Eco-epidemiología
 
 ## Definición actual
+<br>
 
 .center[
 <img src="https://conteudo.imguol.com.br/c/entretenimento/23/2021/02/03/bbb-21-lumena-aponta-dedo-para-juliette-e-diz-que-sister-esta-mentindo-1612324623101_v2_900x506.jpg" style="width:60%;">]
@@ -301,15 +328,15 @@ Ecoepidemiologia é multidisciplinar!
 .center[([Soskolne et al. 2007](https://www.colinsoskolne.com/documents/change.pdf))]
 
 <!---
-- Sólo "recientemente" los epidemiólogos han comenzado a lidiar con las implicaciones de los deterioros ecológicos en la salud de la población como resultado de la actividad humana.
+- Apenas "recentemente" os epidemiologistas começaram a lidar com as implicações dos declínios ecológicos na saúde da população como resultado da atividade humana.
 
-- Reconociendo estos desafíos, el término "**ecoepidemiología**" se ha utilizado para *describir la investigación epidemiológica que cubre las relaciones entre la integridad del ecosistema y la salud humana*. 
+- Reconhecendo esses desafios, o termo "** ecoepidemiologia **" foi usado para * descrever a pesquisa epidemiológica que cobre as relações entre a integridade do ecossistema e a saúde humana *.
 
-- Ecoepidemiologia é uma subespecialidade da epidemiologia, com foco nas relações entre a saúde humana e a dinâmica da mudança ecológica global.
+- Assim, a Ecoepidemiologia é uma subespecialidade da epidemiologia, com foco nas relações entre a saúde humana e a dinâmica da mudança ecológica global.
 
-- Cada vez es mayor la conciencia de que un enfoque más basado en *sistemas* es esencial para comprender la salud (global) de la población.
+- Há uma consciência crescente de que uma abordagem mais baseada em * sistemas * é essencial para compreender a saúde (global) da população.
 
-- Existe un reconocimiento creciente de que muchos temas deben estudiarse de manera integral, en lugar de estudiar las diferentes partes del todo por separado.
+- Há um reconhecimento crescente de que muitos tópicos devem ser estudados de forma holística, em vez de estudar diferentes partes do todo separadamente.
 
 -->
 
@@ -389,6 +416,9 @@ name: anim
 <img src="https://pbs.twimg.com/media/EcqjQUlXgAI9ut6.jpg" style="width:35%;">
 ]
 
+<!--
+homem picado por cobra aja em Brasilia 
+-->
 
 ---
 # Animales venenosos
@@ -465,6 +495,24 @@ acc %>% ggplot(aes(x = ano, y = acc)) +
 .center[
 ([TABNET - SINAN - DATASUS: 11/05/2021](http://tabnet.datasus.gov.br/cgi/tabcgi.exe?sinannet/cnv/animaisbr.def))
 ]
+
+<!--
+Para a maioria dos animais venenosos no mundo, estatísticas detalhas sobre número de humanos picados, envenenados ou mortos não está disponivel. O que temos publicados está de estimativas com validade variáveil. É claro, no entando, que sabemos que certos taxóns causam morbidade e mortalidade significativos em humanos. 
+
+Dos trabalhos que vi, a maioria trás os acidentes com serpentes como os mais frequentes, com estimativas que chegam a ~2 milhões e meio de acidentes por ano. 
+
+Na sequência estariam os acidentes com escorpiões (~1.2 milhão), seguido pelas aranhas e demais taxons.
+
+No Brasil, no entando, temos dados que divergem desses trabalhos, com uma média de acidentes com escorpiões significativamente maior no país.
+
+Segundo dados do Tabnet do SINAN, nos ultimos 10 anos o número de notificaçoes de acidentes 
+com escorpiões por ano foi de ~100 mil/ano, seguido por ~30 mil/ano acidentes com aranhas e então serpentes. Pensando que a média de acidentes por ano é de ~200 mil, os acideentes com escorpiões correspondem quase a metade desses acidentes.
+
+Além do exposto, vemos que existe um crescimento no número de acidentes a cada ano que passa. Mesmo no ano de pandêmia - que foi 2020 - tivemos um número altissímo de acidentes. 
+
+Autores tem ligado esse crescimento no numero de acc a diversos fatores, entre eles as já citadas mudanças climaticas, sociais, do uso da terra e a perda de biodiversidade. 
+
+-->
 
 ---
 name: animma
@@ -1016,19 +1064,16 @@ name: espacial
 ]
 
 <!---
-A transmissão de doenças infecciosas está intimamente ligada aos conceitos de próximidade no espaço e no tempo, pois a transmissão é mais provável de ocorrer se os indivíduos em risco estão mais próximos em um espaço e tempo.
+Os acidentes com animais venenosos estão intimamente ligada aos conceitos de próximidade no espaço e no tempo, pois o acidente é mais provável de ocorrer se os indivíduos em risco estão mais próximos em um espaço e tempo.
 
-No caso de ocorrência de doenças não transmissíveis, a proximidade de fatores de risco ambientais pode ser importante. As análises epidemiológicas, portanto, devem levar em conta o espaço e o tempo, tendo como princípio básico examinar a dependência entre as observações em relação a essas duas dimensões. 
+As análises epidemiológicas, portanto, devem levar em conta o espaço e o tempo, tendo como princípio básico examinar a dependência entre as observações em relação a essas duas dimensões. 
 
-Embora pareça uma etapa simples e lógica, ela introduz uma complicação, pois as inferências resultantes dos métodos clássicos de análise estatística pressupõem que as observações sejam independentes umas das outras. 
-
-A consequência de ignorar a dependência, se presente, é que os intervalos de confiança estimados são mais estreitos do que deveriam ser (assumindo que estamos lidando com autocorrelação positiva). Consequentemente, a característica distintiva dos métodos estatísticos espaciais ou espaço-temporais é que eles levam em consideração o arranjo espacial ou espaço-temporal (ou seja, que as observações no espaço ou no tempo não são independentes umas das outras).
---->
+-->
 
 ---
 # (Eco-)epidemiología espacial
 
-- Tenemos la percepción de que la salud está relacionada con el medio de la persona - contexto geográfico.
+- Tenemos la percepción de que la salud está relacionada con el medio de la persona - tiempo y espacio.
 
 - El comportamiento de las personas en este contexto ambiental y social contribuye a su estado de salud *al largo del tiempo*. 
 
@@ -1043,26 +1088,22 @@ A consequência de ignorar a dependência, se presente, é que os intervalos de 
 ---
 # (Eco-)epidemiología espacial
 
+## Sistemas de Información Geográfica (SIG)
+
 ## John Snow - historia
 
 .center[
-<img src="fig/Slide62.PNG" style="width:65%;">
+<img src="fig/Slide62.PNG" style="width:50%;">
 ]
 Mapa de Londres del brote de cólera de 1854 de John Snow (las muertes se muestran como puntos, las bombas de agua como cruces). 
 
 <!---
-John Snow (York, 15 de março de 1813 – Londres, 16 de junho de 1858) foi um médico inglês, considerado pai da epidemiologia moderna. Em 1853 receberia o título de sir, após ter anestesiado a rainha Vitória no parto sem dor de seu oitavo filho, Leopoldo de Albany, fato que ajudou a divulgar a técnica entre os médicos da época.
+John Snow (York, 15 de março de 1813 – Londres, 16 de junho de 1858) foi um médico inglês, considerado pai da epidemiologia moderna. Ele demonstrou que o cólera era causado pelo consumo de águas contaminadas com matérias fecais, ao comprovar que os casos dessa doença se agrupavam nas zonas onde a água consumida estava contaminada com fezes, na cidade de Londres no ano de 1854. 
 
-Demonstrou que o cólera era causado pelo consumo de águas contaminadas com matérias fecais, ao comprovar que os casos dessa doença se agrupavam nas zonas onde a água consumida estava contaminada com fezes, na cidade de Londres no ano de 1854. Nesse ano cartografou num plano do distrito do Soho os poços de água, localizando como culpado o poço existente em Broad Street, em pleno coração da epidemia. Snow recomendou à comunidade fecha-lo, com o que foram diminuindo os casos da doença. Este episódio é considerado como um dos exemplos mais precoces no uso do método geográfico para a descrição de casos de uma epidemia.
+Nesse ano cartografou num plano do distrito do Soho os poços de água, localizando como culpado o poço existente em Broad Street, em pleno coração da epidemia. Snow recomendou à comunidade fecha-lo, com o que foram diminuindo os casos da doença. Este episódio é considerado como um dos exemplos mais precoces no uso do método geográfico para a descrição de casos de uma epidemia.
 
 O estudo de Snow ficou para a história como um dos primeiros exemplos que ilustram o poder de análise espacial dos Sistemas de Informação Geográfica.
 
-
-O trabalho realizado por John Snow na Inglaterra ajudou a romper com os paradigmas existentes em uma época em que ainda predominava uma forte crença na teoria miasmática da doença, também denominada "teoria anti-contagionista". Mais ainda, Snow sentou as bases teórico-metodológicas do "método epidemiológico", o qual tem sido utilizado através da história tanto para a investigação das causas, como para a solução das fontes de todas as doenças transmissíveis. Mais recentemente, usa-se esse método para a investigação de todos os problemas de saúde e doença que afetem às comunidades humanas.
-
-Desde a investigação do surto de cólera de John Snow em 1854, a epidemiologia tem desempenhado um papel cada vez mais importante no fornecimento de evidências científicas para apoiar o desenvolvimento de políticas de saúde humana e animal (Stolley e Lasky 1995). A avaliação do padrão espacial dos casos de cólera em relação aos fatores de risco potenciais, neste caso a localização das bombas de água, foi importante para identificar a fonte da infecção (ver Fig. 1.1), embora seja agora reconhecido que o mapa provavelmente não foi o fator chave para esta inferência de causa e efeito (McLeod 2000).
-
-Um dos desafios do século atual é melhorar a compreensão e a percepção do público sobre o valor da ciência, facilitando assim o uso mais difundido de políticas de saúde que levem em conta de forma eficaz as evidências científicas atualizadas. A comunicação do risco é um elemento essencial neste processo, com o objetivo de apresentar a produção científica de forma compreensível para não cientistas (Leiss e Powell 2004). Um dos mecanismos para melhorar a transparência e a compreensão generalizada das evidências científicas é o uso de métodos visuais de apresentação para tornar os resultados quantitativos razoavelmente abstratos mais fáceis de compreender, que é onde os mapas podem ser particularmente úteis (Bell et al. 2006).
 --->
 
 ---
@@ -1072,7 +1113,7 @@ Um dos desafios do século atual é melhorar a compreensão e a percepção do p
   
 .pull-left[
 <br>
-<img src="http://andersonmedeiros.files.wordpress.com/2010/06/etapas_de_um_sig.PNG" style="width:90%;">
+<img src="http://andersonmedeiros.files.wordpress.com/2010/06/etapas_de_um_sig.png" style="width:90%;">
 ]
 
 .pull-right[
@@ -1091,7 +1132,7 @@ Los SIG son el resultado de la combinación de tres tipos diferentes de tecnolog
 <!---
 Um sistema de informação geográfica (SIG), também conhecido como SIG ou GIS (acrónimo/acrônimo inglês de geographic information system), é um sistema de hardware, software, informação espacial, procedimentos computacionais e recursos humanos que permite e facilita a análise, gestão ou representação do espaço e dos fenômenos que nele ocorrem.
 
-Fitz (2008) conceitua SIG como um sistema constituído por um conjunto de programas computacionais, o qual integra dados, equipamentos e pessoas com objetivo de coletar, armazenar, recuperar, manipular, visualizar e analisar dados espacialmente referenciados a um sistema de coordenadas conhecido. Tal leva a que gestores de projeto ou administradores de organizações possam geodecidir.
+Pode ser pensado como um sistema constituído por um conjunto de programas computacionais, o qual integra dados, equipamentos e pessoas com objetivo de coletar, armazenar, recuperar, manipular, visualizar e analisar dados espacialmente referenciados a um sistema de coordenadas conhecido. Tal leva a que gestores de projeto ou administradores de organizações possam geodecidir.
 
 Além disso, os SIGs vêm crescendo em todo o mundo, visto que sua interface possibilita um melhor gerenciamento de informações. O que, consequentemente, melhora os processos de tomada de decisão em áreas de grande complexidade, como planejamento municipal, estadual e federal, redes de utilidade pública, proteção ambiental etc.
 
@@ -1207,7 +1248,9 @@ background-position: 55% 65%
 
 .pull-left[
 .center[
-<img src="https://www.intermap.com/hs-fs/hubfs/RES-2.PNG?width=600&name=RES-2.PNG" style="width:80%;">
+
+<img src="fig/fg.gif" style="width:100%;">
+sf
 ]]
 
 .pull-right[
@@ -1215,6 +1258,7 @@ background-position: 55% 65%
 <img src="https://www.esri.com/news/arcuser/0702/graphics/over_arcsde2.gif" style="width:37%;">
 ]
 ]
+
 
 ---
 # (Eco-)epidemiología espacial
@@ -1302,7 +1346,7 @@ Algunas variables que normalmente encontramos como vector:
 ]
 
 .pull-right[
-<img src="https://miro.medium.com/max/1092/1*nR6KLK_vvIdSdvgsQS2Xdw.PNG" style="width:80%;">
+<img src="https://miro.medium.com/max/1092/1*nR6KLK_vvIdSdvgsQS2Xdw.png" style="width:80%;">
 
 ]
 
@@ -1370,7 +1414,7 @@ Algunas variables que normalmente encontramos como vector:
 ---
 # (Eco-)epidemiología espacial
 
-## ¿Cuál es el uso de SIG en la vigilancia de accidentes con animales venenosos?
+## Usos:
 
 - Puede proporcionar orientación sobre la resolución de áreas de riesgo de accidentes, ya sea a nivel mundial, internacional o local;
 
@@ -1381,6 +1425,8 @@ Algunas variables que normalmente encontramos como vector:
 - Ayuda a comprender los posibles eventos de encuentro entre humanos y animales venenosos;
 
 - Cómo solucionar problemas que provocan la dispersión de animales venenosos y la proximidad a los humanos.
+
+- etc.
 
 ---
 # (Eco-)epidemiología espacial
@@ -1554,7 +1600,7 @@ t2 %>% kbl(caption = "Tabla de datos") %>% kable_classic(full_width = F, html_fo
 ### Cómo organizar la hoja de datos
 
 .center[
-<img src="https://simulatingcomplexity.files.wordpress.com/2014/11/netcdf-file-structure.PNG" style="width:50%;">
+<img src="https://simulatingcomplexity.files.wordpress.com/2014/11/netcdf-file-structure.png" style="width:50%;">
 ]
 
 ---
@@ -1565,7 +1611,7 @@ t2 %>% kbl(caption = "Tabla de datos") %>% kable_classic(full_width = F, html_fo
 ### Cómo organizar la hoja de datos
 <br>
 .center[
-<img src="https://www.researchgate.net/publication/315950787/figure/fig3/AS:567797237248005@1512384818972/An-example-of-how-a-dataset-netCDF-or-xarray-for-a-weather-forecast-might-be.PNG" style="width:90%;">
+<img src="https://www.researchgate.net/publication/315950787/figure/fig3/AS:567797237248005@1512384818972/An-example-of-how-a-dataset-netCDF-or-xarray-for-a-weather-forecast-might-be.png" style="width:90%;">
 ]
 
 ---
@@ -1575,7 +1621,7 @@ t2 %>% kbl(caption = "Tabla de datos") %>% kable_classic(full_width = F, html_fo
 
 ### Cómo organizar la hoja de datos
 
-<div class="background" style="width: 1000px; height: 360px; white-space: nowrap; overflow-x: scroll; border: 0; padding: 30px;">
+<div class="background" style="width: 1000px; height: 370px; white-space: nowrap; overflow-x: scroll; border: 0; padding: 30px;">
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
 Localidad = c(rep(1:9, 3))
@@ -1793,7 +1839,7 @@ decisión.
 .center[
 **<p style="font-size:50px;">Visualización de datos</p>**
 
-<img src="https://www.iconpacks.net/icons/1/free-bar-chart-icon-676-thumb.PNG" style="width:20%;">
+<img src="https://www.iconpacks.net/icons/1/free-bar-chart-icon-676-thumb.png" style="width:20%;">
 
 **<p style="font-size:60px;">Algunos ejemplos útiles</p>**
 ]
@@ -2124,7 +2170,7 @@ Esta última variável é muito mais difícil de interpretar do que aquela nos e
 .center[
 **<p style="font-size:50px;">Visualización de datos</p>**
 
-<img src="https://images.vexels.com/media/users/3/155717/isolated/preview/8934c36ada5d23627c77bc8f2478eadd-camping-map-icon-by-vexels.PNG" style="width:20%;">
+<img src="https://images.vexels.com/media/users/3/155717/isolated/preview/8934c36ada5d23627c77bc8f2478eadd-camping-map-icon-by-vexels.png" style="width:20%;">
 
 **<p style="font-size:60px;">Algunos ejemplos útiles - Mapas</p>**
 ]
@@ -2349,6 +2395,7 @@ iris %>% ggplot(aes(x = Petal.Width, y = Sepal.Length)) +
 
 ### Protocolo de análisis de datos
 
+0. Recopilación de datos
 1. Descripción de los datos
 2. Identificar la naturaleza de la VR (¿normal? ¿Poisson? ¿Bernoulli?) para asignar la distribución de datos esperada; Identificar los tipos de VE (¿cuantitativos o cualitativos?).
 3. Estima el modelo.
@@ -2476,12 +2523,16 @@ Milena Gisela Casafús, Marília Melo Favalesso, Micaela Andrea Gritti, Juan Man
 ---
 # Muchas gracias!!
 
+<br>
+
+.center[
+<img src="fig/cobra.jpg" style="width:50%;">
+]
+
 .center[
 
-<img src="fig/cobra.jpg" style="width:50%;">
-
-
 Diapositivas creadas con el paquete [xaringan](https://github.com/yihui/xaringan) - `r icons::icon_style(icons::fontawesome("r-project"), fill = "#000000")`
+
 ]
 
 ---
