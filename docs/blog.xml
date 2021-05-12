@@ -7,7 +7,20 @@
     <description>Marilia Melo Favalesso
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>Sat, 12 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 May 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Herramientas ecoepidemiologicas para la vigilancia de los accidentes por animales venenosos</title>
+      <dc:creator>Marilia Melo Favalesso</dc:creator>
+      <link>www.mmfava.com/posts/2021-05-11-ferramentas-ecoepidemio</link>
+      <description>UNILA</description>
+      <category>UNILA</category>
+      <category>R</category>
+      <category>Eco-epidemiologia</category>
+      <category>Animais venenosos</category>
+      <category>Epidemiologia espacial</category>
+      <guid>www.mmfava.com/posts/2021-05-11-ferramentas-ecoepidemio</guid>
+      <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Git e GitHub no RStudio</title>
       <dc:creator>Marília Melo Favalesso</dc:creator>

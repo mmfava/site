@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" version="1.0">
   <url>
     <loc>www.mmfava.com/blog.html</loc>
-    <lastmod>2021-03-23T22:38:15-03:00</lastmod>
+    <lastmod>2021-05-11T23:26:05-03:00</lastmod>
   </url>
   <url>
     <loc>www.mmfava.com/</loc>
@@ -15,6 +15,10 @@
   <url>
     <loc>www.mmfava.com/index_es.html</loc>
     <lastmod>2021-03-23T22:52:04-03:00</lastmod>
+  </url>
+  <url>
+    <loc>www.mmfava.com/posts/2021-05-11-ferramentas-ecoepidemio/</loc>
+    <lastmod>2021-05-11T23:42:21-03:00</lastmod>
   </url>
   <url>
     <loc>www.mmfava.com/posts/2021-03-24-git-e-github-com-o-rstudio/</loc>
