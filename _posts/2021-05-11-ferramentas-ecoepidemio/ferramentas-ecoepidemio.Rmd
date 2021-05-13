@@ -1,6 +1,6 @@
 ---
-title: "Herramientas ecoepidemiologicas para la vigilancia de los accidentes por animales venenosos"
-description: 'UNILA'
+title: "Herramientas eco-epidemiológicas para la vigilancia de los accidentes por animales venenosos"
+description: 'Con énfasis en la epidemiología espacial'
 author:
   - name: Marilia Melo Favalesso
     url: www.mmfava.com
