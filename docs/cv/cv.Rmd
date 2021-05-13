@@ -340,6 +340,17 @@ Cascavel, PR, Brazil
 
 Teaching Experience {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
+### Eco-epidemiological tools for surveillance of accidents with venomous animals
+
+Taught class - 
+UNILA
+
+2021
+
+::: concise
+- 5 h 
+- [link](https://www.mmfava.com/posts/2021-05-11-ferramentas-ecoepidemio/)
+:::
 
 ### Introduction to Git and GitHub in RStudio
 
