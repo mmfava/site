@@ -10,11 +10,18 @@
       }
     ],
     "date": "2021-05-13",
-    "categories": [],
+    "categories": [
+      "Análise de dados",
+      "Cluster",
+      "Ecologia",
+      "PCA",
+      "R",
+      "UNIOESTE"
+    ],
     "contents": "\r\nEm 2016 ministrei, em parceria com minha querida colega Thais Sobjak, um minicurso de Ecologia numérica para os graduandos de Ciência Biológicas da Universidade Estadual do Oeste do Paraná (UNIOESTE). O curso foi bem básico e apresentei os conceitos e práticas de PCA e Cluster em R. A Thais ensinou a parte de índices ecológicos.\r\nNa sequência, disponibilizo os materiais que utilizei.\r\nDia 1:\r\nAnálise de componentes principais (PCA)\r\n\r\n\r\n\r\n\r\nDia 2:\r\nAnálise de agrupamento (cluster)\r\n\r\n\r\n\r\n\r\nDia 3:\r\nÍndices de diversidade\r\nParte da Thaís\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2021-05-13T23:54:26-03:00",
-    "input_file": "mini-curso-de-ecologia-numerica.knit.md"
+    "last_modified": "2021-05-14T11:15:22-03:00",
+    "input_file": {}
   },
   {
     "path": "posts/2021-05-11-ferramentas-ecoepidemio/",
@@ -36,7 +43,7 @@
     ],
     "contents": "\r\nNa sequência eu disponibilizo os slides referente a aula de “Herramientas eco-epidemiológicas para la vigilancia de los accidentes por animales venenosos”, ministrada para os discentes do curso de “Biotoxinologia: Ferramentas para a pesquisa biomédica e sua importância em saúde”, do Programa de Pós-Graduação em Biociências, da Universidade Federal da Integração Latino-Americana, em Foz do Iguaçu – PR – Brasil.\r\nMaiores informações clicando aqui!\r\nSlides\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2021-05-13T14:38:13-03:00",
+    "last_modified": "2021-05-14T11:15:29-03:00",
     "input_file": {}
   },
   {
@@ -85,20 +92,69 @@
     "input_file": {}
   },
   {
-    "path": "posts/2021-05-13-como-fazer-um-mapa-animado-com-dados-do-ibge/",
-    "title": "Como fazer um mapa animado com dados do IBGE",
-    "description": "❤",
+    "path": "posts/2021-05-14-i-webinar-cincia-no-parque/",
+    "title": "I Webinar Ciência no Parque",
+    "description": "",
     "author": [
       {
-        "name": "Marília Melo Favalesso",
+        "name": "Marilia Melo Favalesso",
         "url": "www.mmfava.com"
       }
     ],
-    "date": "2020-07-06",
-    "categories": [],
-    "contents": "\r\nTrabalhando ou não com dados, com certeza você já deve ter ouvido falar sobre o nosso Instituto Brasileiro de Geografia e Estatística (IBGE). O IBGE é uma entidade da administração pública federal, vinculada ao Ministério da Economia, responsável por prover todas as informações estatísticas oficiais do nosso país. Através do seu trabalho analítico, o IBGE nos fornece informações espaço-temporais importantes, como dados sociodemográficos, de ocupação e de uso da terra, sobre a indústria, o meio ambiente e a agricultura, além de cartas e mapas com delimitações do território brasileiro.\r\nCom o objetivo de homenagear a fundação dessa instituição, hoje comemora-se o Dia da Criação do IBGE 🎂. Foi em 6 de julho de 1934 que o Decreto-Lei nº 24.609 foi sancionado, iniciando o projeto que se tornou a instituição que conhecemos atualmente. Para que essa data tão importante não passe em branco, hoje eu vou te ensinar a fazer um mapa animado no R utilizando dados fornecidos pelo IBGE. Para tal, é só acessar a minha postagem no MEDIUM:\r\nACESSAR A POSTAGEM NO MEDIUM\r\n\r\n\r\n\r\n",
+    "date": "2020-09-03",
+    "categories": [
+      "Divulgação científica",
+      "Parque Nacional do Iguaçu"
+    ],
+    "contents": "\r\nVocê sabia que o Parque Nacional do Iguaçu (PNI), além de ter muitas atividades culturais e ter um dos cenários mais espetaculares do planeta: as incríveis Cataratas do Iguaçu, também tem muita produção de ciência?! Em conjunto com os servidores do PNI, organizamos um evento online com a intenção de difundir alguns dos projetos de pesquisa realizados no parque! Ficou curiosa/o? Deixo na sequência os vídeos de acesso para o Webinar!\r\nDia 1:\r\n\r\n\r\nDia 2:\r\n\r\n\r\nDia 3:\r\n\r\n\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2021-05-13T16:28:37-03:00",
-    "input_file": "como-fazer-um-mapa-animado-com-dados-do-ibge.knit.md"
+    "last_modified": "2021-05-14T11:22:19-03:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2021-05-14-minha-primeira-participao-em-um-podcast/",
+    "title": "Minha primeira participação em um podcast!",
+    "description": "Podcast: Intervalo de confiança",
+    "author": [
+      {
+        "name": "Marilia Melo Favalesso",
+        "url": "www.mmfava.com"
+      }
+    ],
+    "date": "2020-09-03",
+    "categories": [
+      "Animais venenosos",
+      "Divulgação científica",
+      "Lagartas",
+      "Lonomia",
+      "Orugas"
+    ],
+    "contents": "\r\n\"Dados estão presentes em todos os aspectos da vida, de pesquisas eleitorais a reuniões de trabalho, vida fora da Terra, inteligência artificial, criatividade, jogos de azar, esportes, enfim, em cada um dos processos e distrações que criamos. Um importante uso de dados e das suas metodologias é em entender como eu, você, o dragão de Komodo, o Rogério Skylab e as lagartas venenosas funcionam.\r\nPor isso hoje, no dia do biólogo, o apresentador Igor Alcantara recebe a bióloga e pesquisadora Marília Melo Favalesso para falar sobre uma das áreas mais promissoras e interessantes no trabalho de dados: a bioestatística, seus métodos, suas técnicas e seus segredos.\r\nA transcrição deste episódio está disponível neste link. Caso queira colaborar conosco com a transcrição dos episódios, escrevendo textos, pautas ou de outras formas, entre em contato conosco.\r\nA edição foi feita por Leo Oliveira e a vitrine do episódio por Diego Madeira. As vinhetas de todos os episódios foram compostas por Rafael Chino e Leo Oliveira.\r\nAs imagens usadas na Vitrine do episódio, com exceção da marca Intervalo de Confiança, foram extraídas do site PX Here.\r\nNão esqueça de ler nossos textos, disponíveis no Blog presente neste site.\"\r\nPara acessar o episódio completo, é só acessar o site: https://intervalodeconfianca.com.br/2020/09/03/ic-25-lagartas-sao-armas-biologicas/\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-05-14T11:54:56-03:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2021-05-14-orugas-de-importancia-mdica/",
+    "title": "Orugas de importancia médica",
+    "description": "",
+    "author": [
+      {
+        "name": "Marilia Melo Favalesso",
+        "url": "www.mmfava.com"
+      }
+    ],
+    "date": "2020-06-27",
+    "categories": [
+      "Animais venenosos",
+      "Divulgação científica",
+      "Lagartas",
+      "Lonomia",
+      "Orugas"
+    ],
+    "contents": "\r\nMinistrei palestra sobre as principais lagartas de importância médica encontradas na Argentina em um evento direcionado aos guias de turismo da província de Misiones. A palestra foi realizada no município de Puerto Iguazú em 27/06/2019.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-05-14T11:54:33-03:00",
+    "input_file": {}
   }
 ]

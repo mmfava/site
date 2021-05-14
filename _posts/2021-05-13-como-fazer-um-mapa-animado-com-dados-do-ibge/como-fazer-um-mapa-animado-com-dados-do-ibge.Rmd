@@ -8,6 +8,10 @@ date: 07-06-2020
 output:
   distill::distill_article:
     self_contained: false
+categories:
+  - Mapa
+  - R
+  - animation
 ---
 
 Trabalhando ou não com dados, com certeza você já deve ter ouvido falar sobre o nosso Instituto Brasileiro de Geografia e Estatística (IBGE). O IBGE é uma entidade da administração pública federal, vinculada ao Ministério da Economia, responsável por prover todas as informações estatísticas oficiais do nosso país. Através do seu trabalho analítico, o IBGE nos fornece informações espaço-temporais importantes, como dados sociodemográficos, de ocupação e de uso da terra, sobre a indústria, o meio ambiente e a agricultura, além de cartas e mapas com delimitações do território brasileiro.

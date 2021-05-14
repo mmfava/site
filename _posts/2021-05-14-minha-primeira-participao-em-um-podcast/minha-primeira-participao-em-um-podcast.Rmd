@@ -1,0 +1,31 @@
+---
+title: "Minha primeira participação em um podcast!"
+description: "Podcast: Intervalo de confiança"
+author:
+  - name: Marilia Melo Favalesso
+    url: www.mmfava.com
+date: 09-03-2020
+output:
+  distill::distill_article:
+    self_contained: false
+categories:
+  - Animais venenosos
+  - Divulgação científica
+  - Lagartas
+  - Lonomia
+  - Orugas
+---
+
+"Dados estão presentes em todos os aspectos da vida, de pesquisas eleitorais a reuniões de trabalho, vida fora da Terra, inteligência artificial, criatividade, jogos de azar, esportes, enfim, em cada um dos processos e distrações que criamos. Um importante uso de dados e das suas metodologias é em entender como eu, você, o dragão de Komodo, o Rogério Skylab e as lagartas venenosas funcionam.
+
+Por isso hoje, no dia do biólogo, o apresentador Igor Alcantara recebe a bióloga e pesquisadora Marília Melo Favalesso para falar sobre uma das áreas mais promissoras e interessantes no trabalho de dados: a bioestatística, seus métodos, suas técnicas e seus segredos.
+
+A transcrição deste episódio está disponível neste link. Caso queira colaborar conosco com a transcrição dos episódios, escrevendo textos, pautas ou de outras formas, entre em contato conosco.
+
+A edição foi feita por Leo Oliveira e a vitrine do episódio por Diego Madeira. As vinhetas de todos os episódios foram compostas por Rafael Chino e Leo Oliveira.
+
+As imagens usadas na Vitrine do episódio, com exceção da marca Intervalo de Confiança, foram extraídas do site PX Here.
+
+Não esqueça de ler nossos textos, disponíveis no Blog presente neste site."
+
+Para acessar o episódio completo, é só acessar o site: https://intervalodeconfianca.com.br/2020/09/03/ic-25-lagartas-sao-armas-biologicas/

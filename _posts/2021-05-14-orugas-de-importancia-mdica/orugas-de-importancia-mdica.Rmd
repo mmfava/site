@@ -1,0 +1,23 @@
+---
+title: "Orugas de importancia médica"
+description: ""
+author:
+  - name: Marilia Melo Favalesso
+    url: www.mmfava.com
+date: 06-27-2020
+output:
+  distill::distill_article:
+    self_contained: false
+categories:
+  - Animais venenosos
+  - Divulgação científica
+  - Lagartas
+  - Lonomia
+  - Orugas
+---
+
+Ministrei palestra sobre as principais lagartas de importância médica encontradas na Argentina em um evento direcionado aos guias de turismo da província de Misiones. A palestra foi realizada no município de Puerto Iguazú em 27/06/2019. 
+
+```{r echo=FALSE}
+knitr::include_url('orugas.html')
+```

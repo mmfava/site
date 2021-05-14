@@ -1,0 +1,28 @@
+---
+title: "I Webinar Ciência no Parque"
+description: ""
+author:
+  - name: Marilia Melo Favalesso
+    url: www.mmfava.com
+date: 09-03-2020
+output:
+  distill::distill_article:
+    self_contained: false
+categories:
+  - Divulgação científica
+  - Parque Nacional do Iguaçu
+---
+
+Você sabia que o Parque Nacional do Iguaçu (PNI), além de ter muitas atividades culturais e ter um dos cenários mais espetaculares do planeta: as incríveis Cataratas do Iguaçu, também tem muita produção de ciência?! Em conjunto com os servidores do PNI, organizamos um evento online com a intenção de difundir alguns dos projetos de pesquisa realizados no parque! Ficou curiosa/o? Deixo na sequência os vídeos de acesso para o Webinar! 
+
+## Dia 1:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9tkDSwSPFUQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Dia 2:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tFtBj9mvqwY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Dia 3:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c7x71muKcTQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
