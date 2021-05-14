@@ -7,7 +7,15 @@
     <description>Marilia Melo Favalesso
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>Tue, 11 May 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 May 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Minicurso de ecologia numérica</title>
+      <dc:creator>Marilia Melo Favalesso</dc:creator>
+      <link>www.mmfava.com/posts/2021-05-13-mini-curso-de-ecologia-numerica</link>
+      <description>PCA, Cluster e Índices de Diversidade</description>
+      <guid>www.mmfava.com/posts/2021-05-13-mini-curso-de-ecologia-numerica</guid>
+      <pubDate>Thu, 13 May 2021 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Herramientas eco-epidemiológicas para la vigilancia de los accidentes por animales venenosos</title>
       <dc:creator>Marilia Melo Favalesso</dc:creator>
@@ -45,6 +53,14 @@
       <category>ENMTML</category>
       <guid>www.mmfava.com/posts/2021-04-01-introduo-a-modelagem-de-distribuio-de-espcies-com-exemplo-no-r</guid>
       <pubDate>Sat, 31 Oct 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Como fazer um mapa animado com dados do IBGE</title>
+      <dc:creator>Marília Melo Favalesso</dc:creator>
+      <link>www.mmfava.com/posts/2021-05-13-como-fazer-um-mapa-animado-com-dados-do-ibge</link>
+      <description>❤</description>
+      <guid>www.mmfava.com/posts/2021-05-13-como-fazer-um-mapa-animado-com-dados-do-ibge</guid>
+      <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
