@@ -363,7 +363,7 @@ Fortaleza, CE, Brazil
 
 ::: concise
 - 4 h 
-- [link](https://www.meetup.com/pt-BR/rladies-fortaleza/events/275030815/)
+- [link](https://www.mmfava.com/posts/2021-03-24-git-e-github-com-o-rstudio/)
 :::
 
 ### Species distribution models: an introduction.
@@ -377,7 +377,7 @@ Belo Horizonte, MG, Brazil
 
 ::: concise
 - 1 h 
-- [link](https://www.sympla.com.br/we-r-ladies---dados-da-ecologia-e-meio-ambiente-aplicados-ao-r__1013350)
+- [link](https://www.mmfava.com/posts/2021-04-01-introduo-a-modelagem-de-distribuio-de-espcies-com-exemplo-no-r/)
 :::
 
 ### Descriptive statistics
@@ -435,7 +435,7 @@ Cascavel, PR, Brazil
 
 ::: concise
 - 4 h 
-- [material]()
+- [material](https://www.mmfava.com/posts/2021-05-13-mini-curso-de-ecologia-numerica/)
 :::
 
 
