@@ -49,6 +49,17 @@ background-image: url(fig/Slide6.PNG)
 background-size: 1200px
 
 ---
+.center[
+# Atividade
+]
+
+<div class="background" style="width: 1100px; height: 520px; white-space: nowrap; overflow-x: scroll; border: 0; padding: 0px;">
+
+.center[
+<img src="atv.png" style="width:100%;">
+]
+
+---
 class: clear
 background-image: url(fig/Slide7.PNG)
 background-size: 1200px

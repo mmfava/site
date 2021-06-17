@@ -345,6 +345,8 @@ Teaching Experience {data-icon=chalkboard-teacher}
 Taught class - 
 UNILA
 
+Foz do Iguaçu, PR, Brazil
+
 2021
 
 ::: concise
@@ -363,7 +365,7 @@ Fortaleza, CE, Brazil
 
 ::: concise
 - 4 h 
-- [link](https://www.meetup.com/pt-BR/rladies-fortaleza/events/275030815/)
+- [link](https://www.mmfava.com/posts/2021-03-24-git-e-github-com-o-rstudio/)
 :::
 
 ### Species distribution models: an introduction.
@@ -377,7 +379,7 @@ Belo Horizonte, MG, Brazil
 
 ::: concise
 - 1 h 
-- [link](https://www.sympla.com.br/we-r-ladies---dados-da-ecologia-e-meio-ambiente-aplicados-ao-r__1013350)
+- [link](https://www.mmfava.com/posts/2021-04-01-introduo-a-modelagem-de-distribuio-de-espcies-com-exemplo-no-r/)
 :::
 
 ### Descriptive statistics
@@ -435,7 +437,7 @@ Cascavel, PR, Brazil
 
 ::: concise
 - 4 h 
-- [material]()
+- [material](https://www.mmfava.com/posts/2021-05-13-mini-curso-de-ecologia-numerica/)
 :::
 
 
@@ -466,6 +468,7 @@ N/A
 2021
 
 DOI: [10.1093/trstmh/traa051](https://academic.oup.com/trstmh/article-abstract/115/1/9/5908316?redirectedFrom=fulltext)  
+
 <u>**Favalesso MM**</u>, Cuervo PF, Casafús M, Guimarães ATB and Peichoto ME
 
 ::: aside
@@ -482,6 +485,7 @@ N/A
 2020
 
 DOI: [oeco.2020.2401.23](https://doi.org/10.4257/oeco.2020.2401.23)  
+
 <u>**Favalesso MM**</u>, Chiyo L, Casafús M, Guimarães ATB and Peichoto ME
 
 ### 5. Potential distribution and ecological conditions of *Lonomia obliqua* Walker 1855 (Saturniidae: Hemileucinae) in Brazil
@@ -505,6 +509,7 @@ N/A
 2019
 
 Full text: [BSEA](https://ri.conicet.gov.ar/bitstream/handle/11336/107348/CONICET_Digital_Nro.9ae8f9e9-e361-4e98-a9a8-36286ac3cc6c_B.pdf?sequence=5&isAllowed=y)
+
 Casafús M, <u>**Favalesso MM**</u>, Guimarães ATB and Peichoto ME
 
 
@@ -516,7 +521,8 @@ N/A
 
 2019
 
-DOI: [10.3895/rbect.v12n3.7608](https://periodicos.utfpr.edu.br/rbect/article/view/7608)  
+DOI: [10.3895/rbect.v12n3.7608](https://periodicos.utfpr.edu.br/rbect/article/view/7608)
+
 <u>**Favalesso MM**</u>, Oliveira JB, Klüber TE and Guimarães ATB
 
 
@@ -528,7 +534,8 @@ N/A
 
 2019
 
-DOI: [10.5380/avs.v24i2.57734]( http://dx.doi.org/10.5380/avs.v24i2.57734)  
+DOI: [10.5380/avs.v24i2.57734]( http://dx.doi.org/10.5380/avs.v24i2.57734) 
+
 Guimarães ATB, Sobjak TM, <u>**Favalesso MM**</u> and Boeger WAP
 
 
@@ -541,9 +548,63 @@ N/A
 2017
 
 DOI: [10.4257/oeco.2017.2104.04](https://doi.org/10.4257/oeco.2017.2104.04)
+
 <u>**Favalesso MM**</u> and Gonçalves RB
 
 
+Scientific articles in press {data-icon=file}
+--------------------------------------------------------------------------------
+### 2. A hidden deadly venomous insect: first eco-epidemiological assessment and risk mapping of lonomism in Argentina
+
+*Plos One NDTS* 
+
+N/A
+
+2021
+
+Casafús MG, <u>**Favalesso MM**</u>, Gritti MA, Coronel JM, Guimarães ATB and Peichoto ME
+
+### 1. Land use as an effect factor on the occurrence of chromosomal diseases in Brazil
+
+*International Journal of Molecular Epidemiology and Genetics*
+
+N/A
+
+2021
+
+Cochak MR, <u>**Favalesso MM**</u>, Brancalhão RMC, Guimarães ATB and Ribeiro LFC
+
+Scientific articles in development {data-icon=file}
+--------------------------------------------------------------------------------
+### Revealing the landscape and climate as key factors that influence lonomic accidents in southern Brazil
+
+Data analysis process
+
+N/A
+
+2021
+
+<u>**Favalesso MM**</u>, Cuervo P, Guimarães ATB and Peichoto ME
+
+### Perfil de resistencia a antimicrobianos en microorganismos productores de carbapenemasas aislados en un hospital de Corrientes (Argentina)
+
+In process of writing 
+
+N/A
+
+2021
+
+Gritti AG, <u>**Favalesso MM**</u>, Peichoto ME and Aguirre LGGC
+
+### Bee sting notifications in São Paulo (Brazil) between 2007 and 2018
+
+Submitted for consideration in [EcoHealth journal](https://www.springer.com/journal/10393)
+
+N/A
+
+2021
+
+<u>**Favalesso MM**</u>, Oliveira PS, Burgos EF, Frazeto IB and Souza R
 
 
 Oral communications {data-icon=volume-up}

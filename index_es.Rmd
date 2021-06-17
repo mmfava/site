@@ -8,8 +8,6 @@ links:
     url: "https://www.researchgate.net/profile/Marilia-Favalesso"
   - label: Linkedin
     url: "https://www.linkedin.com/in/mariliafavalesso/"
-  - label: Twitter
-    url: "https://twitter.com/mmfbee"
   - label: E-mail
     url: "mailto:mariliabioufpr@gmail.com"
 output:
@@ -75,7 +73,7 @@ Soy ecoepidemióloga y entusiasta de la ciencia de datos/bioestadística. Actual
 
 <br>
 
-Si quieres contactarme, la mejor forma es por correo electrónico o vía twitter (:
+Si quieres contactarme, la mejor forma es por correo electrónico (:
 
 <br>
 

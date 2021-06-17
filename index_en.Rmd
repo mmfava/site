@@ -8,8 +8,6 @@ links:
     url: "https://www.researchgate.net/profile/Marilia-Favalesso"
   - label: Linkedin
     url: "https://www.linkedin.com/in/mariliafavalesso/"
-  - label: Twitter
-    url: "https://twitter.com/mmfbee"
   - label: E-mail
     url: "mailto:mariliabioufpr@gmail.com"
 output:
@@ -75,7 +73,7 @@ I am an eco-epidemiologist and data science/biostatistics enthusiast. I am curre
 
 <br>
 
-If you want to contact me, the best way is by email or via Twitter (:
+If you want to contact me, the best way is by email (:
 
 <br>
 
