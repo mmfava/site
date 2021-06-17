@@ -10,7 +10,7 @@ library(xaringan)
 library(tidyverse)
 
 # convert to pdf
-setwd("C:/Users/mmfav/Dropbox/GitHub/site/cv")
+setwd("C:/Users/mmfav/OneDrive/GitHub/site/cv")
 purrr::map(dir(pattern = ".Rmd$"), chrome_print)
 
 # end ---------------------------------------------------------------------
