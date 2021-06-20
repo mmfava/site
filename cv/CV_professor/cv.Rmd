@@ -117,7 +117,7 @@ Educação complementar {data-icon=book}
 
 Universidad de Buenos Aires, UBA 
 
-Argentina
+Buenos Aires - AR
 
 2021
 
@@ -130,7 +130,7 @@ Argentina
 
 Universidad Nacional de General San Martin, UNSAM 
 
-Argentina
+Buenos Aires - AR
 
 2020
 
@@ -142,7 +142,7 @@ Argentina
 
 Universidad de Buenos Aires (UBA)
 
-Buenos Aires capital, Argentina
+Buenos Aires - AR
 
 2019
 
@@ -154,7 +154,7 @@ Buenos Aires capital, Argentina
 
 Universidade Estadual do Oeste do Paraná (UNIOESTE)
 
-Foz do Iguaçu, PR, Brasil
+Foz do Iguaçu, PR - BR
 
 2019
 
@@ -166,7 +166,7 @@ Foz do Iguaçu, PR, Brasil
 
 Universidad de Buenos Aires (UBA)
 
-Buenos Aires capital, Argentina
+Buenos Aires - AR
 
 2019
 
@@ -178,7 +178,7 @@ Buenos Aires capital, Argentina
 
 Universidad de Buenos Aires (UBA)
 
-Buenos Aires capital, Argentina
+Buenos Aires - AR
 
 2018
 
@@ -190,7 +190,7 @@ Buenos Aires capital, Argentina
 
 Instituto Gulich
 
-Córdoba, Argentina
+Córdoba - AR
 
 2018
 
@@ -202,7 +202,7 @@ Córdoba, Argentina
 
 Universidade da Integração Latino-Americana (UNILA)
 
-Foz do Iguaçu, PR, Brasil
+Foz do Iguaçu, PR - BR
 
 2018
 
@@ -214,7 +214,7 @@ Foz do Iguaçu, PR, Brasil
 
 Universidade Estadual Paulista (UNESP)
 
-Rio Claro, SP, Brasil
+Rio Claro, SP - BR
 
 2017
 
@@ -226,7 +226,7 @@ Rio Claro, SP, Brasil
 
 Universidade Estadual do Oeste do Paraná (UNIOESTE)
 
-Cascavel, PR, Brasil
+Cascavel, PR - BR
 
 2016
 
@@ -238,7 +238,7 @@ Cascavel, PR, Brasil
 
 Universidade Estadual do Oeste do Paraná (UNIOESTE)
 
-Cascavel, PR, Brasil
+Cascavel, PR - BR
 
 2016
 
@@ -250,7 +250,7 @@ Cascavel, PR, Brasil
 
 Universidade Estadual do Oeste do Paraná (UNIOESTE)
 
-Cascavel, PR, Brasil
+Cascavel, PR - BR
 
 2016
 
@@ -262,7 +262,7 @@ Cascavel, PR, Brasil
 
 Universidade Estadual do Oeste do Paraná (UNIOESTE)
 
-Cascavel, PR, Brasil
+Cascavel, PR - BR
 
 2016
 
@@ -274,7 +274,7 @@ Cascavel, PR, Brasil
 
 Universidade Estadual do Oeste do Paraná (UNIOESTE)
 
-Cascavel, PR, Brasil
+Cascavel, PR - BR
 
 2015
 
@@ -286,7 +286,7 @@ Cascavel, PR, Brasil
 
 Universidade Estadual do Oeste do Paraná (UNIOESTE)
 
-Cascavel, PR, Brasil
+Cascavel, PR - BR
 
 2015
 
@@ -298,7 +298,7 @@ Cascavel, PR, Brasil
 
 Universidade de São Paulo (USP)
 
-Ribeirão Preto, SP, Brasil
+Ribeirão Preto, SP - BR
 
 2014
 
@@ -310,7 +310,7 @@ Ribeirão Preto, SP, Brasil
 
 RENOVA cursos
 
-Cascavel, PR, Brasil
+Cascavel, PR - BR
 
 2012
 
@@ -322,7 +322,7 @@ Cascavel, PR, Brasil
 
 RENOVA cursos
 
-Cascavel, PR, Brasil
+Cascavel, PR - BR
 
 2012
 
@@ -339,7 +339,7 @@ Experiência profissional {data-icon=suitcase}
 
 [Qual é a sua pergunta?](https://qualesuapergunta.wixsite.com/consultoria)
 
-Cascavel, PR, Brazil
+Cascavel, PR - BR
 
 2015 - 2016
 
@@ -395,7 +395,7 @@ N/A
 
 Instrutora de minicurso - Grupo de Estudos em Ciência de Dados (GECD), Foz do Iguaçu, PR - Br
 
-Foz do Iguaçu, PR, Brazil
+Foz do Iguaçu, PR - BR
 
 2019
 
@@ -458,7 +458,7 @@ Prêmio por distinção acadêmica {data-icon=award}
 
 I Simpósio Latino-Americano de Biociências, Universidade Federal da Integração Latino-Americana
 
-Foz do Iguaçu, PR, Brasil
+Foz do Iguaçu, PR - BR
 
 2018
 
@@ -466,7 +466,7 @@ Foz do Iguaçu, PR, Brasil
 
 II Simpósio Latino-Americano de Biociências, Universidade Federal da Integração Latino-Americana
 
-Foz do Iguaçu, PR, Brasil
+Foz do Iguaçu, PR - BR
 
 2019
 
@@ -641,7 +641,7 @@ Comunicação oral {data-icon=volume-up}
 
 VI Congresso Internacional de Medicina Veterinária e Ciências Biológicas
 
-Foz do Iguaçu, PR, Brazil
+Foz do Iguaçu, PR - BR
 
 2019
 
@@ -650,7 +650,7 @@ Foz do Iguaçu, PR, Brazil
 
 II Simpósio Latino-Americano de Biociências
 
-Foz do Iguaçu, PR, Brazil
+Foz do Iguaçu, PR - BR
 
 2019
 
@@ -658,7 +658,7 @@ Foz do Iguaçu, PR, Brazil
 
 Seminários de Pesquisa em Biociência - UNILA
 
-Foz do Iguaçu, PR, Brazil
+Foz do Iguaçu, PR - BR
 
 2019
 
@@ -666,7 +666,7 @@ Foz do Iguaçu, PR, Brazil
 
 I Simpósio Latino-Americano de Biociências
 
-Foz do Iguaçu, PR, Brazil
+Foz do Iguaçu, PR - BR
 
 2018
 
@@ -674,7 +674,7 @@ Foz do Iguaçu, PR, Brazil
 
 Seminários em Conservação e Manejo de Recursos Naturais
 
-Cascavel, PR, Brazil 
+Cascavel, PR - BR
 
 2017
 
@@ -682,7 +682,7 @@ Cascavel, PR, Brazil
 
 22º EVINCI/7º EINTI
 
-Palotina, PR, Brazil
+Palotina, PR - BR
 
 2014
 
@@ -690,7 +690,7 @@ Palotina, PR, Brazil
 
 Grupo de Estudos em Bioética (GEB) - UFPR
 
-Palotina, PR, Brazil
+Palotina, PR - BR
 
 2013
 
@@ -698,7 +698,7 @@ Palotina, PR, Brazil
 
 20º EVINCI/5º EINTI
 
-Palotina, PR, Brazil
+Palotina, PR - BR
 
 2012
 
@@ -706,7 +706,7 @@ Palotina, PR, Brazil
 
 Grupo de Estudos em Pesquisas Forense (GEP Forense) - UFPR
 
-Palotina, PR, Brazil
+Palotina, PR - BR
 
 2012
 
@@ -718,7 +718,7 @@ Resumos publicados em eventos {data-icon=book-open}
 
 Primer Congreso Paraguayo de Zoología
 
-Asunción, Paraguay
+Asunción - PY
 
 2019
 
@@ -728,7 +728,7 @@ Casaccia PS, Burgos EF, <u>**Favalesso MM**</u>, Rios SD, Mereles MF, Arias AR
 
 II Simpósio Latino-Americano de Biociências
 
-Foz do Iguaçu, PR, Brazil
+Foz do Iguaçu, PR - BR
 
 2019
 
@@ -750,7 +750,7 @@ Gervazoni P, <u>**Favalesso MM**</u>, Franceschini C, Fuentes Rodriguez D, Sosa 
 
 IX Simpósio de Zoonoses com Interesse em Saúde Pública
 
-Palotina, PR, Brazil
+Palotina, PR - BR
 
 2019
 
@@ -760,7 +760,7 @@ Palotina, PR, Brazil
 
 IX Simpósio de Zoonoses com Interesse em Saúde Pública
 
-Palotina, PR, Brazil
+Palotina, PR - BR
 
 2019
 
@@ -770,7 +770,7 @@ Palotina, PR, Brazil
 
 IX Simpósio de Zoonoses com Interesse em Saúde Pública
 
-Palotina, PR, Brazil
+Palotina, PR - BR
 
 2019
 
@@ -780,7 +780,7 @@ Lescano ME, Ripoli MC, Oliveira WF, <u>**Favalesso MM**</u>, Peichoto ME & Tavar
 
 I Simpósio Latino-Americano de Biociências
 
-Foz do Iguaçu, PR, Brazil
+Foz do Iguaçu, PR - BR
 
 2019
 
@@ -790,7 +790,7 @@ Foz do Iguaçu, PR, Brazil
 
 I Simpósio Latino-Americano de Biociências
 
-Foz do Iguaçu, PR, Brazil
+Foz do Iguaçu, PR - BR
 
 2019
 
@@ -800,7 +800,7 @@ Casafus M, <u>**Favalesso MM**</u>, Couto E, Gatti F, Guimarães ATB & Peichoto 
 
 3th International Symposium of Ecology (SINECO)
 
-Foz do Iguaçu, PR, Brazil
+Foz do Iguaçu, PR - BR
 
 2019
 
@@ -811,7 +811,7 @@ Foz do Iguaçu, PR, Brazil
 
 Reunión conjunta de sociedades de Biociências
 
-Buenos Aires capital, Argentina
+Buenos Aires capital - AR
 
 2017
 
@@ -821,7 +821,7 @@ Buenos Aires capital, Argentina
 
 XXVI Semana Acadêmica de Ciências Biológicas da UNIOESTE
 
-Cascavel, PR, Brazil
+Cascavel, PR - BR
 
 2017
 
@@ -831,7 +831,7 @@ Bastos EFM, <u>**Favalesso MM**</u>, & Guimaraes ATB
 
 XVII Seminário de Extensão da UNIOESTE
 
-Cascavel, PR, Brazil
+Cascavel, PR - BR
 
 2017
 
@@ -841,7 +841,7 @@ Guimarães ATB, Paoletti M, Cargnelutti-Júnior JC, <u>**Favalesso MM**</u>, Dal
 
 XXV Semana Acadêmica de Biologia
 
-Cascavel, PR, Brazil
+Cascavel, PR - BR
 
 2016
 
@@ -851,7 +851,7 @@ Medeiros G, <u>**Favalesso MM**</u>, Nabeshima CA, Favaretto CC & Bueno NC
 
 XV Congresso Brasileiro de Biomedicina & III Congresso Internacional de Biomedicina
 
-Bento Gonçalves, RS, Brazil
+Bento Gonçalves, RS - BR
 
 2016
 
@@ -861,7 +861,7 @@ Scarton SRS, <u>**Favalesso MM**</u>, Kunz RI, Bracalhão RC, Guimarães ATB & B
 
 V Seminário sobre Estudos Limnológicos em Clima Subtropical (V SELCS)
 
-Curitiba, PR, Brazil
+Curitiba, PR - BR
 
 2016
 
@@ -871,7 +871,7 @@ Berlatto AF, Bogoni RF, Ticiani D, Eichelberger AC, Malagi I, Medeiros G, <u>**F
 
 XXV Congresso de Entomologia
 
-Goiânia, GO, Brazil
+Goiânia, GO - BR
 
 2014
 
@@ -881,7 +881,7 @@ Goiânia, GO, Brazil
 
 22º EVINCI e 6ª SIEPE
 
-Palotina, PR, Brazil
+Palotina, PR - BR
 
 2014
 
@@ -889,7 +889,7 @@ Palotina, PR, Brazil
 
 XVI ENAPAVE - Archives of Veterinary Science, v. 18, p. 349-351
 
-Curitiba, PR, Brazil
+Curitiba, PR - BR
 
 2013
 
@@ -899,7 +899,7 @@ Tostes RA, Caron E, Cestari FK, <u>**Favalesso MM**</u> & Silva NL
 
 MedVep de Especialidades Veterinárias
 
-Bento Gonçalves, RS, Brazil
+Bento Gonçalves, RS - BR
 
 2013
 
@@ -909,7 +909,7 @@ Cestari FK, Silva NL, Tostes RA, <u>**Favalesso MM**</u> & Caron E
 
 MedVep de Especialidades Veterinárias
 
-Bento Gonçalves, RS, Brazil
+Bento Gonçalves, RS - BR
 
 2013
 
@@ -919,7 +919,7 @@ Tostes RA, Cestari FK, Silva NL, <u>**Favalesso MM**</u> & Caron E
 
 Revista da Sociedade Brasileira de Bioética, V. 9, p. 298
 
-Florianópolis, SC, Brazil
+Florianópolis, SC - BR
 
 2013
 
@@ -929,7 +929,7 @@ Dias NA, Cestari FK & <u>**Favalesso MM**</u>
 
 Anais del II Congreso Uruguayo de Zoología, v. 2, p. 147
 
-Montevideo, Uruguay
+Montevideo - UY
 
 2012
 
@@ -939,7 +939,7 @@ Chiarini R, Cestari FK & <u>**Favalesso MM**</u>
 
 20º Evinci e 5º Einti
 
-Palotina, PR, Brazil
+Palotina, PR - BR
 
 2012
 
@@ -949,10 +949,36 @@ Palotina, PR, Brazil
 
 XXI Semana Acadêmica de Biologia da UNIOESTE
 
-Cascavel, PR, Brazil
+Cascavel, PR - BR
 
 2012
 
 Oliveira JB, Vendrame C, <u>**Favalesso MM**</u>, Peireira-Júnior M, Lucyk N, Artmann N, Aranha JM & Guimarães ATB
+
+Participação em bancas {data-icon=user-edit}
+--------------------------------------------------------------------------------
+
+### [A influência de variáveis na determinação dos valores de apartamentos no centro de Cascavel - PR através da metodologia de inferência estatística](https://1drv.ms/b/s!AqEf2XJKAY50ivlcoTXJmJjXlB9yWw?e=4Ed3o8)
+
+Trabalho de Conclusão de Curso de Felipe Tardetti, graduação em Engenharia Civil, UNIPAR
+
+Cascavel, PR - BR
+
+2017
+
+<u>**Favalesso MM**</u>, Lazarini, PRS & SILVA BP
+
+
+Revisor de periódico {data-icon=edit}
+--------------------------------------------------------------------------------
+
+### [Periódico: JOURNAL OF APPLIED ENTOMOLOGY (ISSN: 1439-0418)](https://1drv.ms/b/s!AqEf2XJKAY50ivl8WHCZwS_fkfd0cA?e=0FPDbs)
+
+Revisora de dois artigos científicos
+
+N/A
+
+2019
+
 
 
