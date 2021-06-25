@@ -17,6 +17,7 @@ Aside
 
 <i class='fas fa-download'></i> [Download this CV in PDF](cv.pdf)
 
+
 Contato {#contact}
 --------------------------------------------------------------------------------
 - `r fontawesome::fa("link")` [www.mmfava.com](www.mmfava.com)
@@ -646,7 +647,7 @@ Gonçalves RB, Berno VO e <u>**Favalesso MM**</u>
 Comunicação oral {data-icon=volume-up}
 --------------------------------------------------------------------------------
 
-### [A importâcia dos dados na profissão do biólogo](https://www.dropbox.com/s/qx80sg35ovji3e6/VI%20congresso%20int%20de%20vet%20e%20biologia%20-%20importancia%20dos%20dados%20na%20prof%20do%20biologo.jpeg?dl=0)
+### [A importâcia dos dados na profissão do biólogo](https://1drv.ms/u/s!AqEf2XJKAY50h_BOpNXJUJfNtOqJnA?e=hLKf98)
 
 VI Congresso Internacional de Medicina Veterinária e Ciências Biológicas
 
@@ -655,7 +656,7 @@ Foz do Iguaçu, PR - BR
 2019
 
 
-### [Caracterización clínica y epidemiológica de los accidentes con *Lonomia* en Misiones (Argentina)](https://www.dropbox.com/s/qvxyrqw081ur3lc/AP-O%20II%20Simposio%20de%20Bioci%C3%AAncias%202019.pdf?dl=0)
+### [Caracterización clínica y epidemiológica de los accidentes con *Lonomia* en Misiones (Argentina)](https://1drv.ms/b/s!AqEf2XJKAY50ivlIEF5a9dBKoKF7sw?e=wWoTi8)
 
 II Simpósio Latino-Americano de Biociências
 
@@ -663,7 +664,7 @@ Foz do Iguaçu, PR - BR
 
 2019
 
-### [Cuidado onde toca: panorama sobre o lonomismo no Brasil](https://www.dropbox.com/s/mlz7e3g1c10e929/S%20Semin%C3%A1rios%20em%20Bioci%C3%AAncia%202019.pdf?dl=0)
+### [Cuidado onde toca: panorama sobre o lonomismo no Brasil](https://1drv.ms/b/s!AqEf2XJKAY50ivk88L9cHcym4N8heA?e=e9aEyH)
 
 Seminários de Pesquisa em Biociência - UNILA
 
@@ -671,7 +672,7 @@ Foz do Iguaçu, PR - BR
 
 2019
 
-### [Distribuição potencial e aspectos ecológicos da taturana venenosa *Lonomia obliqua* walker 1855 no Brasil](https://www.dropbox.com/s/22c9km7g0xcmh56/AP-O%20I%20Simp%C3%B3sio%20de%20Bioci%C3%AAncias%202018.pdf?dl=0)
+### [Distribuição potencial e aspectos ecológicos da taturana venenosa *Lonomia obliqua* walker 1855 no Brasil](https://1drv.ms/b/s!AqEf2XJKAY50ivlJblwANd7ilyUbJw?e=41geEC)
 
 I Simpósio Latino-Americano de Biociências
 
@@ -679,7 +680,7 @@ Foz do Iguaçu, PR - BR
 
 2018
 
-### [Modelagem de nicho ecológico por entropia máxima](https://www.dropbox.com/s/pidmkakajdhs04d/P%20Semin%C3%A1rios%20em%20Conserva%C3%A7%C3%A3o%20e%20Menejo%20de%20Recursos%20Naturais.pdf?dl=0)
+### [Modelagem de nicho ecológico por entropia máxima](https://1drv.ms/b/s!AqEf2XJKAY50ivk9EChcMXc3FXrIGA?e=HOHG9Z)
 
 Seminários em Conservação e Manejo de Recursos Naturais
 
@@ -687,7 +688,7 @@ Cascavel, PR - BR
 
 2017
 
-### [Estrutura da rede de interação entre abelhas e angiospermas nativas de floresta estacional semidecidual (Parque Estadual de São Camilo, Palotina, Paraná)](https://www.dropbox.com/s/ya0gmvbboaw0h3k/AP-O%2022%20EVINCI%207%20EINTI%202014.pdf?dl=0)
+### [Estrutura da rede de interação entre abelhas e angiospermas nativas de floresta estacional semidecidual (Parque Estadual de São Camilo, Palotina, Paraná)](https://1drv.ms/b/s!AqEf2XJKAY50ivlKW4VXd_3KyFLiSg?e=IJHurG)
 
 22º EVINCI/7º EINTI
 
@@ -695,7 +696,7 @@ Palotina, PR - BR
 
 2014
 
-### [Conceitos básicos de evolução](https://www.dropbox.com/s/x5zt7u3znbg8wxo/P%20GEB%202013.pdf?dl=0)
+### [Conceitos básicos de evolução](https://1drv.ms/b/s!AqEf2XJKAY50ivlB_Oi6GsrK_0xfxA?e=93FuO8)
 
 Grupo de Estudos em Bioética (GEB) - UFPR
 
@@ -703,7 +704,7 @@ Palotina, PR - BR
 
 2013
 
-### [Estudo preliminar da fauna cadavérica no município de Palotina, Paraná - sucessão entomológica](https://www.dropbox.com/s/gu4oo991p19jimy/P%20GEP%202012.pdf?dl=0)
+### [Estudo preliminar da fauna cadavérica no município de Palotina, Paraná - sucessão entomológica](https://1drv.ms/b/s!AqEf2XJKAY50ivk-fitxSHar0aJKMw?e=jW6luT)
 
 20º EVINCI/5º EINTI
 
@@ -711,7 +712,7 @@ Palotina, PR - BR
 
 2012
 
-### [A relevância da decomposição cadavérica]()
+### [A relevância da decomposição cadavérica](https://1drv.ms/b/s!AqEf2XJKAY50ivk-fitxSHar0aJKMw?e=jW6luT)
 
 Grupo de Estudos em Pesquisas Forense (GEP Forense) - UFPR
 
@@ -744,7 +745,7 @@ Foz do Iguaçu, PR - BR
 <u>**Favalesso MM**</u>, Couto EM, Casafús M, Gritti MA, Guimarães ATB & Peichoto ME
 
 
-### [Prioridades para prevenir el establecimiento y dispersión del lirio amarillo en regiones susceptibles](https://www.dropbox.com/s/g24d3qxcbc74spm/2019%20GERVAZONI%20et%20al.%20-%20VI%20Congreso%20Nacional%20de%20Conservaci%C3%B3n%20de%20la%20Biodiversidad.pdf?dl=0)
+### [Prioridades para prevenir el establecimiento y dispersión del lirio amarillo en regiones susceptibles](https://1drv.ms/b/s!AqEf2XJKAY50ivkng2jgOvtV4CeZeA?e=ibo7cG)
 
 VI Congreso Nacional de Conservación de la Biodiversidad 
 
@@ -755,7 +756,7 @@ Argentina
 Gervazoni P, <u>**Favalesso MM**</u>, Franceschini C, Fuentes Rodriguez D, Sosa A, Coetzee J & Hill M
 
 
-### [Lonomismo no Brasil: análise epidemiológica dos acidentes causados pela taturana venenosa no período de 2007 e 2018](https://733a1b04-0b5d-4c37-aa16-b097f5a5362b.filesusr.com/ugd/d485a1_c0184a5c48e24cfc9c3fda7aaec28546.pdf)
+### [Lonomismo no Brasil: análise epidemiológica dos acidentes causados pela taturana venenosa no período de 2007 e 2018](https://1drv.ms/b/s!AqEf2XJKAY50ivkpZWn0bL-iLlZIbg?e=ExLdkD)
 
 IX Simpósio de Zoonoses com Interesse em Saúde Pública
 
@@ -846,7 +847,7 @@ Cascavel, PR - BR
 
 Guimarães ATB, Paoletti M, Cargnelutti-Júnior JC, <u>**Favalesso MM**</u>, Dal'Canton LE & Sobjak T
 
-### [Comparação dos parâmetros abióticos d'água entre três pontos na bacia do rio Cascavel](https://www.dropbox.com/s/3mbwv58z1pv08im/2016%20MEDEIROS%20et%20al.%20-%20XXV%20Semana%20academica%20de%20biologia.pdf?dl=0)
+### [Comparação dos parâmetros abióticos d'água entre três pontos na bacia do rio Cascavel](https://1drv.ms/b/s!AqEf2XJKAY50ivkxDLlLmx-iH2d8Wg?e=4BENea)
 
 XXV Semana Acadêmica de Biologia
 
@@ -904,7 +905,7 @@ Curitiba, PR - BR
 
 Tostes RA, Caron E, Cestari FK, <u>**Favalesso MM**</u> & Silva NL
 
-### [Estudo da Fauna Cadavérica no Município de Palotina, Paraná - Descrição das Características da Decomposição Cadavérica](https://www.dropbox.com/s/y7ispjszy1av52o/2013%20CESTARI%20et%20al.%20-%20MEDVEP.pdf?dl=0)
+### [Estudo da Fauna Cadavérica no Município de Palotina, Paraná - Descrição das Características da Decomposição Cadavérica](https://1drv.ms/b/s!AqEf2XJKAY50ivk5eWDvB2JbsAI5-Q?e=bZZxgm)
 
 MedVep de Especialidades Veterinárias
 
@@ -914,7 +915,7 @@ Bento Gonçalves, RS - BR
 
 Cestari FK, Silva NL, Tostes RA, <u>**Favalesso MM**</u> & Caron E
 
-### [Estudo da Fauna Cadavérica no Município de Palotina, Paraná – Alterações Biogeoclimáticas e Sua Relação com a Decomposição Cadavérica](https://www.dropbox.com/s/edi11cldg3c7eek/2013%20TOSTES%20et%20al.%20-%20MEDVEP.pdf?dl=0)
+### [Estudo da Fauna Cadavérica no Município de Palotina, Paraná – Alterações Biogeoclimáticas e Sua Relação com a Decomposição Cadavérica](https://1drv.ms/b/s!AqEf2XJKAY50ivk1BuuXxG9utSr3lQ?e=QcotI0)
 
 MedVep de Especialidades Veterinárias
 
@@ -924,7 +925,7 @@ Bento Gonçalves, RS - BR
 
 Tostes RA, Cestari FK, Silva NL, <u>**Favalesso MM**</u> & Caron E
 
-### [A influência de um grupo de estudos sobre bioética na Universidade Federal do Paraná, Setor Palotina](https://www.dropbox.com/s/7vwzkdd5okqd55t/2013%20DIAS%20et%20al.%20-%20RBB%20v9.pdf?dl=0)
+### [A influência de um grupo de estudos sobre bioética na Universidade Federal do Paraná, Setor Palotina](https://1drv.ms/b/s!AqEf2XJKAY50ivk2AJnw4l8kNFJ7Qw?e=UNuNMa)
 
 Revista da Sociedade Brasileira de Bioética, V. 9, p. 298
 
@@ -954,7 +955,7 @@ Palotina, PR - BR
 
 <u>**Favalesso MM**</u>, Cestari FK, Lima N & Tostes R
 
-### [Avaliação da retenção de conteúdos teóricos em alunos submetidos às atividades práticas](https://www.dropbox.com/s/7aqh1bl0je9pfrm/2012%20OLIVEIRA%20et%20al.%20-%20XXI%20Semana%20academica%20de%20bio%20UNIOESTE.pdf?dl=0)
+### [Avaliação da retenção de conteúdos teóricos em alunos submetidos às atividades práticas](https://1drv.ms/b/s!AqEf2XJKAY50ivk6mNpLuDd1_AaHZg?e=4giyT8)
 
 XXI Semana Acadêmica de Biologia da UNIOESTE
 
