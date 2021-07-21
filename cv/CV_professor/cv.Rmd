@@ -483,6 +483,18 @@ Palotina, PR - BR
 
 Artigos científicos {data-icon=file}
 --------------------------------------------------------------------------------
+### 8. A hidden deadly venomous insect: first eco-epidemiological assessment and risk mapping of lonomism in Argentina
+
+*Plos One NDTS* PLoS Negl Trop Dis 15(7): e0009542
+
+N/A
+
+2021
+
+DOI: [10.1371/journal.pntd.0009542](https://doi.org/10.1371/journal.pntd.0009542)
+
+Casafús MG, <u>**Favalesso MM**</u>, Gritti MA, Coronel JM, Guimarães ATB & Peichoto ME
+
 ### 7. *Lonomia* envenomation in Brazil: an epidemiological overview for the period 2007-2018.
 
 *Transactions of The Royal Society of Tropical Medicine and Hygiene* 115: 9-19
@@ -578,16 +590,6 @@ DOI: [10.4257/oeco.2017.2104.04](https://doi.org/10.4257/oeco.2017.2104.04)
 
 Artigos científicos no prelo {data-icon=file}
 --------------------------------------------------------------------------------
-### 2. A hidden deadly venomous insect: first eco-epidemiological assessment and risk mapping of lonomism in Argentina
-
-*Plos One NDTS* 
-
-N/A
-
-2021
-
-Casafús MG, <u>**Favalesso MM**</u>, Gritti MA, Coronel JM, Guimarães ATB & Peichoto ME
-
 ### 1. Land use as an effect factor on the occurrence of chromosomal diseases in Brazil
 
 *International Journal of Molecular Epidemiology and Genetics*
